@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2113492502355562875",
-  "lastCheckedAt": "2026-10-23T20:37:20.760Z",
-  "lastSuccessAt": "2026-10-23T20:37:20.760Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 497,
+  "sinceId": "2113771215433392478",
+  "lastCheckedAt": "2026-10-23T23:28:49.006Z",
+  "lastSuccessAt": "2026-10-23T23:28:49.006Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 500,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1092,15 +1092,18 @@
     "2113163458867032238": "b96faa0c618f38a1fec25fa5c7efd622263ccda78f6e9099c58c31b069753100",
     "2113404560853397516": "094234bf77531732137280e460e1c03f684109c0a3d3a396593febeaa13af781",
     "2113492187770175603": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
-    "2113492502355562875": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a"
+    "2113492502355562875": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a",
+    "2113770573994299544": "bf703ca68b6b9c4d775e1c590d2e7939f7b30464140a7266912c18f49ea3cee6",
+    "2113770862860222611": "3e97cf1017c0fcdc8b1c57eb7edbd078d1c5a63536cd3a21f54fd7ad0771b003",
+    "2113771215433392478": "34fc728815b9f0ec36360230a3f6abc635b527f78b21a5af70543288a9ff6795"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2113492502355562875",
-    "canonicalId": "2113492502355562875",
-    "text": "Landing tomorrow before 10am PST together with a small ship.",
-    "createdAt": "2026-10-23T04:47:34.000Z",
-    "url": "https://x.com/thsottiaux/status/2113492502355562875",
+    "id": "2113771215433392478",
+    "canonicalId": "2113771215433392478",
+    "text": "@playdropai @bcherny @alexandr_wang @poteto Fun game",
+    "createdAt": "2026-10-23T23:15:04.000Z",
+    "url": "https://x.com/thsottiaux/status/2113771215433392478",
     "media": []
   }
 }

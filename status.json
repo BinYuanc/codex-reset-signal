@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-23T20:37:20.766Z",
+  "updatedAt": "2026-10-23T23:28:49.012Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-23T20:37:20.760Z",
-    "lastSuccessAt": "2026-10-23T20:37:20.760Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-23T23:28:49.006Z",
+    "lastSuccessAt": "2026-10-23T23:28:49.006Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2113492502355562875",
-    "text": "Landing tomorrow before 10am PST together with a small ship.",
-    "url": "https://x.com/thsottiaux/status/2113492502355562875",
-    "postCreatedAt": "2026-10-23T04:47:34.000Z"
+    "id": "2113771215433392478",
+    "text": "@playdropai @bcherny @alexandr_wang @poteto Fun game",
+    "url": "https://x.com/thsottiaux/status/2113771215433392478",
+    "postCreatedAt": "2026-10-23T23:15:04.000Z"
   },
   "latest": {
     "reset": {
