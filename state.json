@@ -3,12 +3,228 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2110188326422819047",
-  "lastCheckedAt": "2026-10-14T13:02:38.553Z",
-  "lastSuccessAt": "2026-10-14T13:02:38.553Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 423,
+  "sinceId": "2113492502355562875",
+  "lastCheckedAt": "2026-10-23T12:48:57.395Z",
+  "lastSuccessAt": "2026-10-23T12:48:57.395Z",
+  "lastRunStatus": "checked-74-posts",
+  "postsScanned": 497,
   "matches": [
+    {
+      "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+      "id": "2113492187770175603",
+      "canonicalId": "2113492187770175603",
+      "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
+      "createdAt": "2026-10-23T04:46:19.000Z",
+      "url": "https://x.com/thsottiaux/status/2113492187770175603",
+      "media": [],
+      "detectedAt": "2026-10-23T12:48:57.395Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "But yes… that’s a reset!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "But yes… that’s a reset!",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T12:48:57.422Z"
+    },
+    {
+      "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+      "id": "2113162277688070445",
+      "canonicalId": "2113162277688070445",
+      "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
+      "createdAt": "2026-10-22T06:55:22.000Z",
+      "url": "https://x.com/thsottiaux/status/2113162277688070445",
+      "media": [],
+      "detectedAt": "2026-10-23T12:48:57.395Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 17/ Bet you thought we forgot, but no, it’s reset day today",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T12:48:57.419Z"
+    },
+    {
+      "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
+      "id": "2112798407928713717",
+      "canonicalId": "2112798407928713717",
+      "text": "@theo I demand a reset",
+      "createdAt": "2026-10-21T06:49:29.000Z",
+      "url": "https://x.com/thsottiaux/status/2112798407928713717",
+      "media": [],
+      "detectedAt": "2026-10-23T12:48:57.395Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "@theo I demand a reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "@theo I demand a reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T12:48:57.415Z"
+    },
+    {
+      "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+      "id": "2112432076767289678",
+      "canonicalId": "2112432076767289678",
+      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
+      "createdAt": "2026-10-20T06:33:48.000Z",
+      "url": "https://x.com/thsottiaux/status/2112432076767289678",
+      "media": [],
+      "detectedAt": "2026-10-23T12:48:57.395Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "and reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "and reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T12:48:57.409Z"
+    },
+    {
+      "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
+      "id": "2111918768733753664",
+      "canonicalId": "2111918768733753664",
+      "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+      "createdAt": "2026-10-18T20:34:06.000Z",
+      "url": "https://x.com/thsottiaux/status/2111918768733753664",
+      "media": [],
+      "detectedAt": "2026-10-23T12:48:57.395Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "People have escaped the TL and are asking me for resets on the street now",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "People have escaped the TL and are asking me for resets on the street now",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T12:48:57.405Z"
+    },
+    {
+      "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
+      "id": "2111492673890824348",
+      "canonicalId": "2111492673890824348",
+      "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+      "createdAt": "2026-10-17T16:20:57.000Z",
+      "url": "https://x.com/thsottiaux/status/2111492673890824348",
+      "media": [
+        {
+          "mediaKey": "2111492634128920576",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HU2HXRMbsAAqviR.jpg?name=orig",
+          "previewImageUrl": null,
+          "altText": null
+        }
+      ],
+      "detectedAt": "2026-10-23T12:48:57.394Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T12:48:57.402Z"
+    },
+    {
+      "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
+      "id": "2110595484180214059",
+      "canonicalId": "2110595484180214059",
+      "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+      "createdAt": "2026-10-15T04:55:51.000Z",
+      "url": "https://x.com/thsottiaux/status/2110595484180214059",
+      "media": [],
+      "detectedAt": "2026-10-23T12:48:57.394Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "The reports of my reset button being lost are greatly exaggerated",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "The reports of my reset button being lost are greatly exaggerated",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        },
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "Day 10/ Reset",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "Day 10/ Reset",
+            "note": "未形成明确的重置承诺或完成确认"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-10-23T12:48:57.398Z"
+    },
     {
       "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
       "id": "2109873287853707513",
@@ -380,194 +596,6 @@
         }
       ],
       "notifiedAt": "2026-10-03T04:02:27.384Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "5b85ac7fbd8b721dd409dd96202e65a3b4d0b33e20fe297a4360df356c97b617",
-      "id": "2106131810921136451",
-      "text": "Reset all propagated. Enjoy.",
-      "createdAt": "2026-10-02T21:18:48.000Z",
-      "url": "https://x.com/thsottiaux/status/2106131810921136451",
-      "media": [],
-      "detectedAt": "2026-10-02T21:22:29.062Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "completed",
-          "evidence": "Reset all propagated",
-          "time": {
-            "kind": "observed",
-            "start": "2026-10-02T21:18:48.000Z",
-            "end": null,
-            "evidence": "Reset all propagated",
-            "note": "使用公告发布时间；不代表账户实际到账时刻"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-02T21:22:29.235Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "b02c185e6d38a85aef44055aeecbb23e288971261e952c941d61762839440884",
-      "id": "2105843926221660585",
-      "text": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts. Apologies for the slow start with GPT-6.1 Sol, it's now back to running at expected speeds after the massive load spike in the first two days.",
-      "createdAt": "2026-10-02T02:14:51.000Z",
-      "url": "https://x.com/thsottiaux/status/2105843926221660585",
-      "media": [],
-      "detectedAt": "2026-10-02T02:17:26.112Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "scheduled",
-          "evidence": "Global reset landing tomorrow 10am PST for all paid ChatGPT accounts",
-          "time": {
-            "kind": "exact",
-            "start": "2026-10-02T18:00:00.000Z",
-            "end": null,
-            "evidence": "tomorrow 10am PST"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-02T02:17:26.123Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "167a269c5773a9f503592fe0b0b5df1cde533a29f9c0c1145fa8cac12081882e",
-      "id": "2105672058269212820",
-      "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
-      "createdAt": "2026-10-01T14:51:54.000Z",
-      "url": "https://x.com/thsottiaux/status/2105672058269212820",
-      "media": [],
-      "detectedAt": "2026-10-01T14:53:35.381Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-01T14:53:35.384Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "6318f9d8a246e13f79341d9899d5506a36c826782b7fa20a328fe7948e26e8a0",
-      "id": "2103963215885701493",
-      "text": "@giadotai Sorry Gia. More resets coming next week",
-      "createdAt": "2026-09-26T21:41:35.000Z",
-      "url": "https://x.com/thsottiaux/status/2103963215885701493",
-      "media": [],
-      "detectedAt": "2026-09-26T21:43:22.460Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "More resets coming next week",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "More resets coming next week",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-09-26T21:43:22.465Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "d261afc190875454fd0bc3dcd8f9295084e6dd74731c61ed6c149b223620b452",
-      "id": "2103911959544610829",
-      "text": "Resets all propagated. That will be all. Have a fantastic weekend.",
-      "createdAt": "2026-09-26T18:17:54.000Z",
-      "url": "https://x.com/thsottiaux/status/2103911959544610829",
-      "media": [],
-      "detectedAt": "2026-09-26T18:18:20.679Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "completed",
-          "evidence": "Resets all propagated",
-          "time": {
-            "kind": "observed",
-            "start": "2026-09-26T18:17:54.000Z",
-            "end": null,
-            "evidence": "Resets all propagated",
-            "note": "使用公告发布时间；不代表账户实际到账时刻"
-          }
-        }
-      ],
-      "notifiedAt": "2026-09-26T18:18:20.685Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "fe032afe05c5aa6956f6cdc5955ff3d20e12ab796852e5073df907c5450300fe",
-      "id": "2103637477760311522",
-      "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out)",
-      "createdAt": "2026-09-26T00:07:13.000Z",
-      "url": "https://x.com/thsottiaux/status/2103637477760311522",
-      "media": [],
-      "detectedAt": "2026-09-26T00:07:32.430Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "we’ll reset usage limits for all paid users across codex and ChatGPT work",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "we’ll reset usage limits for all paid users across codex and ChatGPT work",
-            "note": "未形成明确的重置承诺或完成确认"
-          }
-        }
-      ],
-      "notifiedAt": "2026-09-26T00:07:32.435Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "3302b1fc9d9d5428a0e870204cc326c54d52f7e515e885bb408f9615ef5b23c4",
-      "id": "2102463847714247142",
-      "text": "GPT-6 Sol and Luna are out. Not only are they a very significant improvement across the board, but also in writing and general \"you know when you try it\" quality. \n\nWe are also permanently reducing the API price by 50% making both of them viable for a ton of new usecases and making your usage go further too, even on the subscriptions.\n\nAnd one more thing. We are loading a banked reset into all accounts of our Plus, Pro and Business users. Let's go!\n\nhttps://t.co/00DRh1sRrO",
-      "createdAt": "2026-09-22T18:23:37.000Z",
-      "url": "https://x.com/thsottiaux/status/2102463847714247142",
-      "media": [],
-      "detectedAt": "2026-09-22T18:27:42.680Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "We are loading a banked reset into all accounts of our Plus, Pro and Business users",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "We are loading a banked reset into all accounts of our Plus, Pro and Business users",
-            "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "notifiedAt": "2026-09-22T18:27:42.684Z",
       "channels": [
         "github-actions"
       ]
@@ -997,15 +1025,89 @@
     "2110151780478927344": "6fb0a19e1cc24589d3a2e26192f7b9693d1ac458ab3d2509ca13c6dab062c6d4",
     "2110152344029778279": "bdb0a1b76f67a430b626f2175bbb4f1186a5060816e216830f8d55bd2e3dbc91",
     "2110167061632819447": "a6ec12048bc02abc334fd4d64642b1e9dad380c7c73ffb892925055fadc4efe1",
-    "2110188326422819047": "794c9eaa2f5ff6fd9278737bb80f1411624688c057d1a4a172241b558a6b09a0"
+    "2110188326422819047": "794c9eaa2f5ff6fd9278737bb80f1411624688c057d1a4a172241b558a6b09a0",
+    "2110589470911418414": "912d303446b8e66a7e657841ed31015a3d0af3dc4e6649f61f0e9b4335c9841e",
+    "2110591392691159317": "e027ff75ceba8f60c5aa786d1f0b4d6cb7e4cdf48a215bcabdaff6aada25ba35",
+    "2110595484180214059": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
+    "2110595554036400151": "73915993aa7b4ccdbe8f83fbbe3b1ad3aba37875b1ddd8301cf9e0a1eebdf2b0",
+    "2110595987542868381": "bd69f639e6d4d9b1fb5a17b02b396c8c828ee0809385f585a29f7fb8cf7a5954",
+    "2110612268962779352": "4f39d52a7c7deee6cfa9c721b959c52f615e08675a640524b8baaf8b1a6ad1ab",
+    "2110618732666257557": "996d7cf9247938296f825c7bd9eac307760773d5fd36fb40dc9f0e8c4c806639",
+    "2110624335463584028": "dbb755b91b9555b5b948fe74ed1665aad1fb20e53918a88be35338e80709d37e",
+    "2110750421367287996": "9ab399408adb8eb52756a9a678e0deee64aeb1a7a41f97881af9a56eb96cd563",
+    "2110864606088593672": "aa29d9505c89a120101741f8542598b27678e81f2764b469378d7bb205839856",
+    "2110864861119045840": "7c01c36f84f2df7ff886a01ac470952631c66d4f5ef7b0c118f194a029f243b4",
+    "2110868151688912976": "d0f703759921ebb86fb9b42b879f0e424d9cafa69f4e9f3902432ab3c021a5be",
+    "2110951220508819773": "426982ae1809c8441a67444bd1e377d7d360f7bef01ced722981265758966b2a",
+    "2110951585983631505": "7548d7bae97822dd136be48ff9233498b82a757b3eafd8e0784bb3540589d8d2",
+    "2110971985417441512": "18f651de9935a3e009b2ed6a61e364b0691de4a400d87513ee3be7be30b8500c",
+    "2111244596131111253": "8ba50e859e93cdb74d3fe1ffa1efe553781dd7060ab036fe90d25230a9957eef",
+    "2111244957851984181": "eb4b5db2957782b7c384d8740c27df36e26728aaedcd69247a4f2a7e245bc91c",
+    "2111245052513259606": "b40dafe7e3f22faeeab5cbe758dbec14a035fb2df08be0a45a6a93d0ef2c086d",
+    "2111245443917385980": "fd5d531faa999a0404f669d71e2118bea98db1645575f464d0f9ae7ac19e71f5",
+    "2111245772645896573": "582f5f59af613a51a4823d9e8a3426a1fb936c34191ef10bcdb5ffbcaf5d1abe",
+    "2111246098207813946": "97e39979c6f80ae33e79c33a2dee82e978e348a788c192779a35ef0181b3bcb4",
+    "2111249534072529256": "9e9e2e739dde85b7186c93e33f5cc5bb14e297e69817fa0df2521ecad6769a32",
+    "2111249810502353152": "2423d4995cb71188ff2b06f1f0e3a097ec92cba7bd620b3284162ed31df3a7fb",
+    "2111323620471632217": "24802e6a2f67ba0bf1b55842e2f57995f55efff9ec8c7f026dda0a632779e248",
+    "2111336070248026489": "a59c70cf725d2c5946bce38e440813be8c5ff2a26b93a600559c2904e0d75329",
+    "2111337472349343856": "f52ebbfaae21f307ac2e0227ea2003f4f22c54df7b38cabbf6253eb0a43b5853",
+    "2111338115667509490": "616cb939eb104d1682317d5373b11ab56e88cc67a70fba52eee33cbfba0eaf3c",
+    "2111339932614861298": "82b1dae819e850b94dcea0128e148c52677f1aa0191579b83462bc0c38d889fb",
+    "2111341888322314672": "d2681eabf4574cce53ac494363055b5dc1f5c0877985cace0da168e8526acd73",
+    "2111491105120547265": "26773c25c2b35ed67f86af4c0f2e363c32ba29c7edb689aee2c28627ad30fc88",
+    "2111492028177723532": "ee4691b223bce3bdd0e4ca6fd45d1f925b368acff7694542b8a3427fad12d64a",
+    "2111492673890824348": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
+    "2111492738025959922": "5fe871f49ebf8b3dcc5f177868206d637165a25dd6b3a380669da68f0b84c554",
+    "2111493076850229733": "be56a8690a86a95c9eb5f83ddd8a246c079828d4320ede5942fcc152779f9e9c",
+    "2111495392559067199": "9ecb634bd92e9578282dbbc5b78614c3d46e757fc4e81b6e5a78f3821a0c3489",
+    "2111495569806065883": "e3af21cf8ad4f03c93abf616c2b18b90c37e2775b604dc61d5c50ea9e5ce5ebe",
+    "2111519953564368960": "7a901ede6bf23f3b34e824c4367989f5d6e9e3091e3aa0044dd91aa5b76d47e1",
+    "2111522308666077527": "8af3a5a77e4ea528b67b31a77a2d2516c81cbbeb74e9017eb5a2d9850729ad08",
+    "2111523462372372942": "73086ce52d13dd10922257a2d876e906765e756e5ded47ecc14726a0fd9252b1",
+    "2111523665817047359": "9031dd49c146b84a7852da204b66db81d7208655b84fe4fcfafdcdaa5063b76b",
+    "2111566005684289735": "662492203a07fa50cee8c75513f204eb0198c9cc079c6fa486f3c9443b32aab5",
+    "2111583927156760690": "a8bd68d5cb406c9d31c31480d73fdcdbe1fb6c4964c7d1f2c209198ee06db4fb",
+    "2111687989328011357": "882386b897990d20e3ff22181637a13aa8b273552318504bfa4dce5004f2c6de",
+    "2111832959842161136": "9fb2b75f1050510272022d5802c4b077e29e189949faf137937f7998786e2310",
+    "2111849858374177222": "08a4c29a8b6f58c56bfe084be81b128ca6957337bb8cb4d4207eb4ca4062c74a",
+    "2111918635849801739": "5de74bed76286972541eb1f7676ead6096a46e1d22532eb68658d32ba0a38edc",
+    "2111918768733753664": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
+    "2111941223187710114": "d1bbc0514b67356130f56873fa86a15e6579491fdb15c2e8225345ea0cb241d5",
+    "2111945355596353823": "9b603d79c383a25419d6c14b3bfcb15a90a2f99dc3f12489f042f4055f77fea4",
+    "2111990254408434095": "2e052ebf59ee204716c6915da8de50f8f379da529dcfb8e6272f7841619941bb",
+    "2111994295364571327": "c542bbb2d8c07d5c41d49fa9083b2c37ebbe9a489e9216c8256767de7a80a00a",
+    "2112034063934742720": "cbfe757fe1b65c20f1f8e4b2e148d8bdde38af6f94bb19e35cbf46fd74ce4ade",
+    "2112034328549216593": "46bb538804afd4fa1749901965db6f76e2bf08b62b7b6bf61285d831b8e4d750",
+    "2112039275344941371": "1cdd5e32b872f833c1a0b13551d2ea2f6b5cc7a6e31b428e2c9343821021d3e7",
+    "2112039554538770846": "4f30ebd45f5ada44704eec76ff8404ca9d1d0eea210318b8dec2cfae4b8e0b44",
+    "2112039750999986304": "70a8b441c7ef7239d25b6f2291f2e4c8a3b5993553ebb5ac5ec1f6bae251d8d0",
+    "2112049026636103954": "08d82ba4e2a4f7b1c30d992f1ffe675114fc10bc930ab6b43acf34cc0c77dbd6",
+    "2112268918681485431": "3390a0a2210d233b64f62423c7e1185d081f5e490745ed9ccbda9a7921be25c8",
+    "2112426606870585551": "d09f4ebf49f91217eb4373f658179ae2ac17da1fb929edfb2f59aa7dd46bf136",
+    "2112432076767289678": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
+    "2112592264686149749": "4d0758138da1a41962f2763f95f8e233606ca8df66c7214543ce330fd87bb55a",
+    "2112712984644784534": "f9199e8badb9a717dc59cd50f4202483af414fba15eb6bc94027bb5920f3a3c7",
+    "2112798407928713717": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
+    "2112906496736641416": "9a61d0f1e4b654ee2c5e6aec4b1a933ac416671c19e1559a52b1e5c025e4245e",
+    "2112992042465009736": "b28df03af70dece6d272b1def36c48353b48cb0c31978a91891fe75636a9784f",
+    "2113009945134379213": "113b460f6a15498062c666335ad2542d45315a465476766d4ed3c5e024c8c7a6",
+    "2113029655095836957": "86a2ce6087357bf459cb2675a1e3f4b69ca461da3173a17951a00e9343d5a446",
+    "2113029854417600834": "aba33bf5cb01b6a46bb2f81e773c232b66ad312fa85ba7cca6c35cb8d3c96f3f",
+    "2113162277688070445": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
+    "2113162413008884099": "ac64cd14b4916c4387ab7d448ee3cf68d4dfc40b38cb3dadd3fdc913cee1a98d",
+    "2113163458867032238": "b96faa0c618f38a1fec25fa5c7efd622263ccda78f6e9099c58c31b069753100",
+    "2113404560853397516": "094234bf77531732137280e460e1c03f684109c0a3d3a396593febeaa13af781",
+    "2113492187770175603": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
+    "2113492502355562875": "dc83e949362bda4b36c9cab5742979b45478f42b78cc5dda88dd3dd2219a368a"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2110188326422819047",
-    "canonicalId": "2110188326422819047",
-    "text": "@charliermarsh 😅",
-    "createdAt": "2026-10-14T01:57:57.000Z",
-    "url": "https://x.com/thsottiaux/status/2110188326422819047",
+    "id": "2113492502355562875",
+    "canonicalId": "2113492502355562875",
+    "text": "Landing tomorrow before 10am PST together with a small ship.",
+    "createdAt": "2026-10-23T04:47:34.000Z",
+    "url": "https://x.com/thsottiaux/status/2113492502355562875",
     "media": []
   }
 }
