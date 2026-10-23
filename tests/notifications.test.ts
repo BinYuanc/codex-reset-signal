@@ -7,7 +7,7 @@ import { createTargets, renderEmail } from "../src/notifications";
 import { loadConfig, validateConfig } from "../src/config";
 
 describe("renderEmail", () => {
-  it("escapes post content and includes media", () => {
+  it("sends a concise Chinese summary without embedding raw post content or media", () => {
     const html = renderEmail(
       {
         id: "1",
@@ -28,8 +28,9 @@ describe("renderEmail", () => {
       "reset",
     );
     expect(html).not.toContain("<script>");
-    expect(html).toContain("&lt;script&gt;");
-    expect(html).toContain("https://example.com/image.jpg");
+    expect(html).not.toContain("&lt;script&gt;");
+    expect(html).toContain("尚无可确认的重置事件");
+    expect(html).not.toContain("https://example.com/image.jpg");
   });
 });
 
