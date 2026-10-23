@@ -140,7 +140,7 @@ export function createTargets(
             ...(item.events.length ? [] : ["仅检测到相关消息，尚无可确认的重置事件"]),
             "预告不等于实际到账，请以 Codex 额度页面为准。",
             item.post.url,
-          ].join("\\n"),
+          ].join("\n"),
         },
         {
           Authorization: `Bearer ${config.resendApiKey}`,
