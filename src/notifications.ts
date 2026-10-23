@@ -53,15 +53,20 @@ export function renderEmail(
   events: ResetEvent[] = [],
   timezone = "Asia/Shanghai",
 ): string {
-  const images = post.media
-    .map((m) => m.url || m.previewImageUrl)
-    .filter((url): url is string => Boolean(url) && /^https:\/\//i.test(url!))
-    .map(
-      (url) =>
-        `<img src="${escapeHtml(url)}" alt="Post media" style="max-width:100%" />`,
-    )
-    .join("");
-  return `<!doctype html><html><body><h1>Reset Signal · @${escapeHtml(username)} · ${escapeHtml(keyword)}</h1><pre style="white-space:pre-wrap">${escapeHtml(renderText(post, events, timezone))}</pre>${images}<a href="${escapeHtml(post.url)}">Open on X</a></body></html>`;
+  const summary = events.length
+    ? events.map((event) => {
+        const status = statuses[event.status];
+        const time = formatTime(event.time, timezone);
+        return `${labels[event.type]}｜${status}｜${time}`;
+      })
+    : ["仅检测到相关消息，尚无可确认的重置事件"];
+  const title = events.some((event) => event.status === "completed")
+    ? "Codex 额度重置｜已宣布完成"
+    : events.some((event) => event.status === "scheduled")
+      ? "Codex 额度重置｜预告"
+      : "Codex 额度重置｜待确认";
+  const lines = summary.map((line) => `<li style="margin:8px 0">${escapeHtml(line)}</li>`).join("");
+  return `<!doctype html><html lang="zh-CN"><body style="font-family:Arial,sans-serif;max-width:600px;margin:24px auto;color:#202124;line-height:1.7"><h2>${escapeHtml(title)}</h2><p>来源：@${escapeHtml(username)} · 关键词：${escapeHtml(keyword)}</p><ul>${lines}</ul><p style="color:#666">以上为原文规则提取的摘要，预告不等于实际到账，请以 Codex 额度页面为准。</p><p><a href="${escapeHtml(post.url)}">查看原始消息</a></p></body></html>`;
 }
 
 /** Recipient identity is hashed; no tokens, email addresses or URLs enter state. */
@@ -117,7 +122,11 @@ export function createTargets(
         {
           from: config.emailFrom,
           to: [recipient],
-          subject: `Reset Signal: @${config.username}`,
+          subject: item.events.some((event) => event.status === "completed")
+            ? "Codex 额度重置｜已宣布完成"
+            : item.events.some((event) => event.status === "scheduled")
+              ? "Codex 额度重置｜预告"
+              : "Codex 额度重置｜待确认",
           html: renderEmail(
             item.post,
             config.username,
@@ -125,7 +134,13 @@ export function createTargets(
             item.events,
             config.timezone,
           ),
-          text: renderText(item.post, item.events, config.timezone),
+          text: [
+            "Codex 额度重置通知",
+            ...item.events.map((event) => `${labels[event.type]}｜${statuses[event.status]}｜${formatTime(event.time, config.timezone)}`),
+            ...(item.events.length ? [] : ["仅检测到相关消息，尚无可确认的重置事件"]),
+            "预告不等于实际到账，请以 Codex 额度页面为准。",
+            item.post.url,
+          ].join("\\n"),
         },
         {
           Authorization: `Bearer ${config.resendApiKey}`,
