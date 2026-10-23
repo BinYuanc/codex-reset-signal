@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2113492502355562875",
-  "lastCheckedAt": "2026-10-23T12:48:57.395Z",
-  "lastSuccessAt": "2026-10-23T12:48:57.395Z",
-  "lastRunStatus": "checked-74-posts",
+  "lastCheckedAt": "2026-10-23T17:30:52.915Z",
+  "lastSuccessAt": "2026-10-23T17:30:52.915Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 497,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
       "id": "2113492187770175603",
-      "canonicalId": "2113492187770175603",
       "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex &amp; work. But yes… that’s a reset!",
       "createdAt": "2026-10-23T04:46:19.000Z",
       "url": "https://x.com/thsottiaux/status/2113492187770175603",
@@ -32,15 +31,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-23T12:48:57.422Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-23T12:48:57.422Z"
+      ]
     },
     {
       "version": "2417cdb9e6c0e6c4846af3702c3c24fb721ec4961912d951745e526999497bd1",
       "id": "2113162277688070445",
-      "canonicalId": "2113162277688070445",
       "text": "Day 17/ Bet you thought we forgot, but no, it’s reset day today.\n\nAlso good time to remind you to get Daybreak Blue access, it only takes 15 mins and you don’t want to have to do it in the middle of an incident.",
       "createdAt": "2026-10-22T06:55:22.000Z",
       "url": "https://x.com/thsottiaux/status/2113162277688070445",
@@ -60,15 +58,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-23T12:48:57.419Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-23T12:48:57.419Z"
+      ]
     },
     {
       "version": "ed5d41aa8bfe4c73cc891ac09420b29bbe0115dd803c2ce9430be134be21cf44",
       "id": "2112798407928713717",
-      "canonicalId": "2112798407928713717",
       "text": "@theo I demand a reset",
       "createdAt": "2026-10-21T06:49:29.000Z",
       "url": "https://x.com/thsottiaux/status/2112798407928713717",
@@ -88,15 +85,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-23T12:48:57.415Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-23T12:48:57.415Z"
+      ]
     },
     {
       "version": "4d9af2b3bec9bb61cf8d47e37ee68ba3439228225d37ef8a38314cc8826cac0b",
       "id": "2112432076767289678",
-      "canonicalId": "2112432076767289678",
       "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy.",
       "createdAt": "2026-10-20T06:33:48.000Z",
       "url": "https://x.com/thsottiaux/status/2112432076767289678",
@@ -116,15 +112,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-23T12:48:57.409Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-23T12:48:57.409Z"
+      ]
     },
     {
       "version": "f7a9422b6a050344dbc8758d9fc575a4cb52ebca200291e6ef9bbe222fe2119d",
       "id": "2111918768733753664",
-      "canonicalId": "2111918768733753664",
       "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
       "createdAt": "2026-10-18T20:34:06.000Z",
       "url": "https://x.com/thsottiaux/status/2111918768733753664",
@@ -144,15 +139,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-23T12:48:57.405Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-23T12:48:57.405Z"
+      ]
     },
     {
       "version": "39697103a29962d0c82d2cdfeaaf3f169356770f892850e6d9e558a2f17d57d7",
       "id": "2111492673890824348",
-      "canonicalId": "2111492673890824348",
       "text": "Day 13/ Le limit reset https://t.co/zXd2DIH5xf",
       "createdAt": "2026-10-17T16:20:57.000Z",
       "url": "https://x.com/thsottiaux/status/2111492673890824348",
@@ -180,15 +174,14 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-23T12:48:57.402Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-23T12:48:57.402Z"
+      ]
     },
     {
       "version": "26278fd8a9f9deb053233cc5114c40ba3cdd311bd6aa75bc2688d88afeb12443",
       "id": "2110595484180214059",
-      "canonicalId": "2110595484180214059",
       "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
       "createdAt": "2026-10-15T04:55:51.000Z",
       "url": "https://x.com/thsottiaux/status/2110595484180214059",
@@ -220,10 +213,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-23T12:48:57.398Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-23T12:48:57.398Z"
+      ]
     },
     {
       "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
