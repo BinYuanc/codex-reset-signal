@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T01:52:20.946Z",
+  "updatedAt": "2026-10-24T06:34:49.906Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-24T01:52:20.939Z",
-    "lastSuccessAt": "2026-10-24T01:52:20.939Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-24T06:34:49.902Z",
+    "lastSuccessAt": "2026-10-24T06:34:49.902Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2113771215433392478",
-    "text": "@playdropai @bcherny @alexandr_wang @poteto Fun game",
-    "url": "https://x.com/thsottiaux/status/2113771215433392478",
-    "postCreatedAt": "2026-10-23T23:15:04.000Z"
+    "id": "2113838156193894447",
+    "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool.",
+    "url": "https://x.com/thsottiaux/status/2113838156193894447",
+    "postCreatedAt": "2026-10-24T03:41:04.000Z"
   },
   "latest": {
     "reset": {
