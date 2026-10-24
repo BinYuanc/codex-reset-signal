@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-24T19:48:24.984Z",
+  "updatedAt": "2026-10-24T21:58:45.266Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-24T19:48:24.979Z",
-    "lastSuccessAt": "2026-10-24T19:48:24.979Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-10-24T21:58:45.260Z",
+    "lastSuccessAt": "2026-10-24T21:58:45.260Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2114074885622501706",
-    "text": "DM if you want to help scale dots to 1B users and have done similar things in the past",
-    "url": "https://x.com/thsottiaux/status/2114074885622501706",
-    "postCreatedAt": "2026-10-24T19:21:45.000Z"
+    "id": "2114086171907428846",
+    "text": "@specialkdelslay Fortunately, this is fake",
+    "url": "https://x.com/thsottiaux/status/2114086171907428846",
+    "postCreatedAt": "2026-10-24T20:06:35.000Z"
   },
   "latest": {
     "reset": {
