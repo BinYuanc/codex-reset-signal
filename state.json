@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2114237441250828563",
-  "lastCheckedAt": "2026-10-25T13:46:46.428Z",
-  "lastSuccessAt": "2026-10-25T13:46:46.428Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 516,
+  "sinceId": "2114365873049993364",
+  "lastCheckedAt": "2026-10-25T17:15:07.027Z",
+  "lastSuccessAt": "2026-10-25T17:15:07.027Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 517,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1111,15 +1111,16 @@
     "2114228044072403055": "b9d449b7729cd88e67ea3d4e502de24abc9b87cbe3e939a8b0ef8c3126c5ce58",
     "2114228445043691592": "8dbf1139cc31522a4bec626bbb697beabd39584ef74f629e5728244acbf21f04",
     "2114237083652882932": "e11088d05c6a6731b59c54c04e644b84ed599490b9fb9f3cac2646c3d90cffda",
-    "2114237441250828563": "95be22ce3395bad7c6df058728aa637d32831bf0793a0d3183ef566afb807461"
+    "2114237441250828563": "95be22ce3395bad7c6df058728aa637d32831bf0793a0d3183ef566afb807461",
+    "2114365873049993364": "4498ccf874603559fbcb2ce2b64a8cd358c221869ed10a20354822876e1ae34e"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2114237441250828563",
-    "canonicalId": "2114237441250828563",
-    "text": "@ScriptedAlchemy .com",
-    "createdAt": "2026-10-25T06:07:41.000Z",
-    "url": "https://x.com/thsottiaux/status/2114237441250828563",
+    "id": "2114365873049993364",
+    "canonicalId": "2114365873049993364",
+    "text": "@theo Love to see it!!",
+    "createdAt": "2026-10-25T14:38:01.000Z",
+    "url": "https://x.com/thsottiaux/status/2114365873049993364",
     "media": []
   }
 }
