@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T00:06:27.811Z",
+  "updatedAt": "2026-10-25T04:32:53.555Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-25T00:06:27.806Z",
-    "lastSuccessAt": "2026-10-25T00:06:27.806Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-10-25T04:32:53.209Z",
+    "lastSuccessAt": "2026-10-25T04:32:53.209Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2114125878804545940",
-    "text": "@mitsuhiko I doubt they are on twitter",
-    "url": "https://x.com/thsottiaux/status/2114125878804545940",
-    "postCreatedAt": "2026-10-24T22:44:22.000Z"
+    "id": "2114200291319124163",
+    "text": "By midnight PST",
+    "url": "https://x.com/thsottiaux/status/2114200291319124163",
+    "postCreatedAt": "2026-10-25T03:40:04.000Z"
   },
   "latest": {
     "reset": {
