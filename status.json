@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-25T04:32:53.555Z",
+  "updatedAt": "2026-10-25T09:20:57.468Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-25T04:32:53.209Z",
-    "lastSuccessAt": "2026-10-25T04:32:53.209Z",
-    "lastRunStatus": "checked-3-posts"
+    "lastCheckedAt": "2026-10-25T09:20:57.461Z",
+    "lastSuccessAt": "2026-10-25T09:20:57.461Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2114200291319124163",
-    "text": "By midnight PST",
-    "url": "https://x.com/thsottiaux/status/2114200291319124163",
-    "postCreatedAt": "2026-10-25T03:40:04.000Z"
+    "id": "2114237441250828563",
+    "text": "@ScriptedAlchemy .com",
+    "url": "https://x.com/thsottiaux/status/2114237441250828563",
+    "postCreatedAt": "2026-10-25T06:07:41.000Z"
   },
   "latest": {
     "reset": {
