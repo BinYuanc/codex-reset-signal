@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2114086171907428846",
-  "lastCheckedAt": "2026-10-24T21:58:45.260Z",
-  "lastSuccessAt": "2026-10-24T21:58:45.260Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 507,
+  "sinceId": "2114125878804545940",
+  "lastCheckedAt": "2026-10-25T00:06:27.806Z",
+  "lastSuccessAt": "2026-10-25T00:06:27.806Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 509,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1102,15 +1102,17 @@
     "2114073762895405067": "f972df5f7ea3233583ae808e9b491bc5d4a603a6663565fccce6528cb3955e9f",
     "2114074317759938918": "070e8738423dec9246c4f08f0f3a644552d3e802eed942e5fbd45b6bb38056d0",
     "2114074885622501706": "5521d1024877be88cfb239eae896fb336b880e5126613718f3feff18284f5578",
-    "2114086171907428846": "a342bb3b47c16b6ad528fcf765f7380babfc6ab3dcbf0d78adcb2b7dc5bf0fb8"
+    "2114086171907428846": "a342bb3b47c16b6ad528fcf765f7380babfc6ab3dcbf0d78adcb2b7dc5bf0fb8",
+    "2114125293124542632": "4b6e06913bca8be3b5cd30c5fcda1375c778886723d43936f116a16df1adff74",
+    "2114125878804545940": "1f762be636e3eb7e8159aabb200fd144b41700aa9c5193897142231b4f4201ec"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2114086171907428846",
-    "canonicalId": "2114086171907428846",
-    "text": "@specialkdelslay Fortunately, this is fake",
-    "createdAt": "2026-10-24T20:06:35.000Z",
-    "url": "https://x.com/thsottiaux/status/2114086171907428846",
+    "id": "2114125878804545940",
+    "canonicalId": "2114125878804545940",
+    "text": "@mitsuhiko I doubt they are on twitter",
+    "createdAt": "2026-10-24T22:44:22.000Z",
+    "url": "https://x.com/thsottiaux/status/2114125878804545940",
     "media": []
   }
 }
