@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-26T04:45:14.144Z",
+  "updatedAt": "2026-10-26T10:33:45.992Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-26T04:45:14.139Z",
-    "lastSuccessAt": "2026-10-26T04:45:14.139Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-26T10:33:45.987Z",
+    "lastSuccessAt": "2026-10-26T10:33:45.987Z",
+    "lastRunStatus": "checked-6-posts"
   },
   "latestObservedPost": {
-    "id": "2114435873857028129",
-    "text": "@himanshutwtxs Did you?",
-    "url": "https://x.com/thsottiaux/status/2114435873857028129",
-    "postCreatedAt": "2026-10-25T19:16:11.000Z"
+    "id": "2114599388454481930",
+    "text": "@larsencc @bot Not enough resets",
+    "url": "https://x.com/thsottiaux/status/2114599388454481930",
+    "postCreatedAt": "2026-10-26T06:05:56.000Z"
   },
   "latest": {
     "reset": {
