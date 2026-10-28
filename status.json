@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T11:28:39.483Z",
+  "updatedAt": "2026-10-28T17:16:46.848Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T11:28:39.475Z",
-    "lastSuccessAt": "2026-10-28T11:28:39.475Z",
+    "lastCheckedAt": "2026-10-28T17:16:46.839Z",
+    "lastSuccessAt": "2026-10-28T17:16:46.839Z",
     "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2115330127886463244",
-    "text": "And it's done. See you tomorrow for some good news.",
-    "url": "https://x.com/thsottiaux/status/2115330127886463244",
-    "postCreatedAt": "2026-10-28T06:29:38.000Z"
+    "id": "2115473280677363810",
+    "text": "@Ananth7e If only",
+    "url": "https://x.com/thsottiaux/status/2115473280677363810",
+    "postCreatedAt": "2026-10-28T15:58:28.000Z"
   },
   "latest": {
     "reset": {
