@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T00:00:40.286Z",
+  "updatedAt": "2026-10-28T05:23:36.807Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T00:00:40.280Z",
-    "lastSuccessAt": "2026-10-28T00:00:40.280Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-28T05:23:36.803Z",
+    "lastSuccessAt": "2026-10-28T05:23:36.803Z",
+    "lastRunStatus": "checked-8-posts"
   },
   "latestObservedPost": {
-    "id": "2115148258372964831",
-    "text": "@BrenBuilds A sign of great things to come",
-    "url": "https://x.com/thsottiaux/status/2115148258372964831",
-    "postCreatedAt": "2026-10-27T18:26:57.000Z"
+    "id": "2115299029294920189",
+    "text": "@mark_k @OpenAI Taking notes",
+    "url": "https://x.com/thsottiaux/status/2115299029294920189",
+    "postCreatedAt": "2026-10-28T04:26:03.000Z"
   },
   "latest": {
     "reset": {
