@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-28T21:42:55.446Z",
+  "updatedAt": "2026-10-29T01:15:23.498Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-28T21:42:55.440Z",
-    "lastSuccessAt": "2026-10-28T21:42:55.440Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-29T01:15:23.492Z",
+    "lastSuccessAt": "2026-10-29T01:15:23.492Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2115473280677363810",
-    "text": "@Ananth7e If only",
-    "url": "https://x.com/thsottiaux/status/2115473280677363810",
-    "postCreatedAt": "2026-10-28T15:58:28.000Z"
+    "id": "2115588390414581916",
+    "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
+    "url": "https://x.com/thsottiaux/status/2115588390414581916",
+    "postCreatedAt": "2026-10-28T23:35:52.000Z"
   },
   "latest": {
     "reset": {
