@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-29T14:16:02.057Z",
+  "updatedAt": "2026-10-29T19:41:45.803Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-29T14:16:02.050Z",
-    "lastSuccessAt": "2026-10-29T14:16:02.050Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-29T19:41:45.795Z",
+    "lastSuccessAt": "2026-10-29T19:41:45.795Z",
+    "lastRunStatus": "checked-6-posts"
   },
   "latestObservedPost": {
-    "id": "2115649073302904875",
-    "text": "@rezoundous Low, but not zero",
-    "url": "https://x.com/thsottiaux/status/2115649073302904875",
-    "postCreatedAt": "2026-10-29T03:37:00.000Z"
+    "id": "2115890336107233347",
+    "text": "Send your kind feedback to this person",
+    "url": "https://x.com/thsottiaux/status/2115890336107233347",
+    "postCreatedAt": "2026-10-29T19:35:42.000Z"
   },
   "latest": {
     "reset": {
