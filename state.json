@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2115588390414581916",
-  "lastCheckedAt": "2026-10-29T01:15:23.492Z",
-  "lastSuccessAt": "2026-10-29T01:15:23.492Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 542,
+  "sinceId": "2115649073302904875",
+  "lastCheckedAt": "2026-10-29T07:10:50.880Z",
+  "lastSuccessAt": "2026-10-29T07:10:50.880Z",
+  "lastRunStatus": "checked-4-posts",
+  "postsScanned": 546,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1137,15 +1137,19 @@
     "2115330127886463244": "c5e78a303d2682f0170b5276d1f2659c413a293537d86d3a8b0827105be040e1",
     "2115473170279080149": "1cca13fe4b3a129ce7743b3f38a5844650e1417cbe05092029d7c2293d29c1b2",
     "2115473280677363810": "03c3670bfd06f6211699a841c5ea9277061ada237a3850f986d4810c0a14f656",
-    "2115588390414581916": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a"
+    "2115588390414581916": "114fb17887b7831d78ffc83f469f5f452463162654cfb2cbb291a0e5569fb19a",
+    "2115622002581188681": "3c9c86b377d54385c34f4b6323c16131f61e4541a9c3a63c6d26b9177e641357",
+    "2115648685069742441": "b4f67c3649e0fe237a45865c442520eb6c50b9b4872ff9222ae167d3cf1f8e93",
+    "2115648938149818370": "efa9253050c7572d56456578267faa086d329d702cf5c3348a0511704ce56c5f",
+    "2115649073302904875": "d8e2e9496e44860fd929f1e13659d0b8b84fbfdfb7143ea68105981aa2191f62"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2115588390414581916",
-    "canonicalId": "2115588390414581916",
-    "text": "Team is working on this but it's not rolling out just yet, sorry for any confusion. Plan is to bring together best of both Chat / Work capabilities together at some point this year, but we're going to proceed carefully here and take our time.\n\nWe'll have more to share soon.",
-    "createdAt": "2026-10-28T23:35:52.000Z",
-    "url": "https://x.com/thsottiaux/status/2115588390414581916",
+    "id": "2115649073302904875",
+    "canonicalId": "2115649073302904875",
+    "text": "@rezoundous Low, but not zero",
+    "createdAt": "2026-10-29T03:37:00.000Z",
+    "url": "https://x.com/thsottiaux/status/2115649073302904875",
     "media": []
   }
 }
