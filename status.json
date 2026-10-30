@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T16:01:55.811Z",
+  "updatedAt": "2026-10-30T20:41:19.431Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T16:01:55.704Z",
-    "lastSuccessAt": "2026-10-30T16:01:55.704Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-10-30T20:41:19.422Z",
+    "lastSuccessAt": "2026-10-30T20:41:19.422Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2116072117540417651",
-    "text": "@ajambrosino No hype, just shipping",
-    "url": "https://x.com/thsottiaux/status/2116072117540417651",
-    "postCreatedAt": "2026-10-30T07:38:02.000Z"
+    "id": "2116256600436641887",
+    "text": "@claudeai Better announce 28 days of reset",
+    "url": "https://x.com/thsottiaux/status/2116256600436641887",
+    "postCreatedAt": "2026-10-30T19:51:06.000Z"
   },
   "latest": {
     "reset": {
