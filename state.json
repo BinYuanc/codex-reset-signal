@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2115974268936712436",
-  "lastCheckedAt": "2026-10-30T02:54:21.970Z",
-  "lastSuccessAt": "2026-10-30T02:54:21.970Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 553,
+  "sinceId": "2116072117540417651",
+  "lastCheckedAt": "2026-10-30T09:20:22.295Z",
+  "lastSuccessAt": "2026-10-30T09:20:22.295Z",
+  "lastRunStatus": "checked-4-posts",
+  "postsScanned": 557,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1148,15 +1148,19 @@
     "2115851621137784832": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
     "2115851811576053881": "3ffeeea7cb079ec71bd353a8f9e02ffb721a3defdabf165e194b1147a9f5372b",
     "2115890336107233347": "5e3d0a9bda741770c71f62a45ed235e39a3628fea49660fb939a223090020621",
-    "2115974268936712436": "eb03c93713f8ea348a0f441a4370808c8933b046e283754e0d0a80ff2c6db88b"
+    "2115974268936712436": "eb03c93713f8ea348a0f441a4370808c8933b046e283754e0d0a80ff2c6db88b",
+    "2116044153515815186": "6cffdd7f9755a2d4cd1d9f8c71ffa5bb90a70e38e2185d73eab2c6ff768a37bd",
+    "2116045727642366367": "c94f3d825349d1c7e8bc572a69d177490010bf3d25d4c7fe250fd1a1b22c2500",
+    "2116046569963421719": "6a88b33a93f70a13d486c471dee8d4062e59bf27aa4fd6ac8348057a06799a67",
+    "2116072117540417651": "77ba71a592541136220d7a17bfb652515bc143f1335ac3803fcb4228a7f03911"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2115974268936712436",
-    "canonicalId": "2115974268936712436",
-    "text": "@ajambrosino You merge, I split",
-    "createdAt": "2026-10-30T01:09:13.000Z",
-    "url": "https://x.com/thsottiaux/status/2115974268936712436",
+    "id": "2116072117540417651",
+    "canonicalId": "2116072117540417651",
+    "text": "@ajambrosino No hype, just shipping",
+    "createdAt": "2026-10-30T07:38:02.000Z",
+    "url": "https://x.com/thsottiaux/status/2116072117540417651",
     "media": []
   }
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T02:54:21.977Z",
+  "updatedAt": "2026-10-30T09:20:22.300Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-30T02:54:21.970Z",
-    "lastSuccessAt": "2026-10-30T02:54:21.970Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-10-30T09:20:22.295Z",
+    "lastSuccessAt": "2026-10-30T09:20:22.295Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2115974268936712436",
-    "text": "@ajambrosino You merge, I split",
-    "url": "https://x.com/thsottiaux/status/2115974268936712436",
-    "postCreatedAt": "2026-10-30T01:09:13.000Z"
+    "id": "2116072117540417651",
+    "text": "@ajambrosino No hype, just shipping",
+    "url": "https://x.com/thsottiaux/status/2116072117540417651",
+    "postCreatedAt": "2026-10-30T07:38:02.000Z"
   },
   "latest": {
     "reset": {
