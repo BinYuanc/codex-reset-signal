@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T05:28:02.368Z",
+  "updatedAt": "2026-10-31T11:04:21.215Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-10-31T05:28:02.362Z",
-    "lastSuccessAt": "2026-10-31T05:28:02.362Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-10-31T11:04:21.043Z",
+    "lastSuccessAt": "2026-10-31T11:04:21.043Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2116346061317140873",
-    "text": "@charliermarsh No way",
-    "url": "https://x.com/thsottiaux/status/2116346061317140873",
-    "postCreatedAt": "2026-10-31T01:46:35.000Z"
+    "id": "2116408135930069347",
+    "text": "@theo You had me at Codex",
+    "url": "https://x.com/thsottiaux/status/2116408135930069347",
+    "postCreatedAt": "2026-10-31T05:53:15.000Z"
   },
   "latest": {
     "reset": {
