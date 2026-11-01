@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-01T15:09:31.459Z",
+  "updatedAt": "2026-11-01T19:38:01.031Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-01T15:09:31.452Z",
-    "lastSuccessAt": "2026-11-01T15:09:31.452Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-01T19:38:01.024Z",
+    "lastSuccessAt": "2026-11-01T19:38:01.024Z",
+    "lastRunStatus": "checked-6-posts"
   },
   "latestObservedPost": {
-    "id": "2116692827459747906",
-    "text": "@yacineMTB ?!",
-    "url": "https://x.com/thsottiaux/status/2116692827459747906",
-    "postCreatedAt": "2026-11-01T00:44:30.000Z"
+    "id": "2116942192497533418",
+    "text": "@TokenGremlin I demand a banked reset",
+    "url": "https://x.com/thsottiaux/status/2116942192497533418",
+    "postCreatedAt": "2026-11-01T17:15:24.000Z"
   },
   "latest": {
     "reset": {
