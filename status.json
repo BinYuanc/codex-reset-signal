@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-02T09:42:04.142Z",
+  "updatedAt": "2026-11-02T19:47:48.456Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-02T09:42:04.134Z",
-    "lastSuccessAt": "2026-11-02T09:42:04.134Z",
+    "lastCheckedAt": "2026-11-02T19:47:48.449Z",
+    "lastSuccessAt": "2026-11-02T19:47:48.449Z",
     "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2117151862705230048",
-    "text": "@poteto I finished it though",
-    "url": "https://x.com/thsottiaux/status/2117151862705230048",
-    "postCreatedAt": "2026-11-02T07:08:33.000Z"
+    "id": "2117283355427495983",
+    "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
+    "url": "https://x.com/thsottiaux/status/2117283355427495983",
+    "postCreatedAt": "2026-11-02T15:51:03.000Z"
   },
   "latest": {
     "reset": {
