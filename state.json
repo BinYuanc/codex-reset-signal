@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2116942192497533418",
-  "lastCheckedAt": "2026-11-01T23:03:53.290Z",
-  "lastSuccessAt": "2026-11-01T23:03:53.290Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 570,
+  "sinceId": "2117035794678546764",
+  "lastCheckedAt": "2026-11-02T02:23:09.695Z",
+  "lastSuccessAt": "2026-11-02T02:23:09.695Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 572,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1165,15 +1165,17 @@
     "2116935821534380166": "1279f2fd01cac21e97b2885ed98044984910a98fa5181e3e0a8c10aacb6a84ba",
     "2116936031866077423": "25b71439c3a8a01325e80ded94da05f6763661bc45d89129c9d069644d9a7325",
     "2116936205623611781": "4ba18528a325b38087fb34062ae6bd764f8ce550a369478a80bde16d53ca1447",
-    "2116942192497533418": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663"
+    "2116942192497533418": "6a0352a666b5c4ffc34f77971b93a57597a5bdeb2dead2d594cb6421abdce663",
+    "2117035666332954818": "0d77e08d7e4f287ba832a96e6807b8abdb2d9d6cf3265be4686aa9d51fd81146",
+    "2117035794678546764": "f81460dab5a8a566c98134727d5014e960246a39c9da32ebf4b7f5e156588769"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2116942192497533418",
-    "canonicalId": "2116942192497533418",
-    "text": "@TokenGremlin I demand a banked reset",
-    "createdAt": "2026-11-01T17:15:24.000Z",
-    "url": "https://x.com/thsottiaux/status/2116942192497533418",
+    "id": "2117035794678546764",
+    "canonicalId": "2117035794678546764",
+    "text": "Day 28/ Banked 2/2",
+    "createdAt": "2026-11-01T23:27:20.000Z",
+    "url": "https://x.com/thsottiaux/status/2117035794678546764",
     "media": []
   }
 }
