@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2117283355427495983",
-  "lastCheckedAt": "2026-11-02T19:47:48.449Z",
-  "lastSuccessAt": "2026-11-02T19:47:48.449Z",
+  "sinceId": "2117412956950638872",
+  "lastCheckedAt": "2026-11-03T01:51:20.306Z",
+  "lastSuccessAt": "2026-11-03T01:51:20.306Z",
   "lastRunStatus": "checked-2-posts",
-  "postsScanned": 576,
+  "postsScanned": 578,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1171,15 +1171,17 @@
     "2117151734506397716": "4983ca67a0406e8375fd1bddf72a4039df8f755684e03fac791f04acbced8929",
     "2117151862705230048": "652a0c8a55a542431161d4b183538219a0e815505c7ec223ebe9f07db41ed9b3",
     "2117283124833055196": "7360b7762eac7c109a506053ef8f8e3a5dd16e98cd4aa1cd2c37fa2bb98ae544",
-    "2117283355427495983": "ed60e44377bc6a8bc250acd1a8275a5274276a29c52eb7187a830a1fe6112f30"
+    "2117283355427495983": "ed60e44377bc6a8bc250acd1a8275a5274276a29c52eb7187a830a1fe6112f30",
+    "2117364233210151160": "9be417143926430eb3374e5ef0452b74e73524b9076a91c2da821961c8f3870a",
+    "2117412956950638872": "a0bf06976acace72c0ea4c178156d34c9767516b7fdfbf684ed6d2bba5e76cdd"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2117283355427495983",
-    "canonicalId": "2117283355427495983",
-    "text": "Your dot will choose the best model for the task, drawing on different models for different parts of the work.",
-    "createdAt": "2026-11-02T15:51:03.000Z",
-    "url": "https://x.com/thsottiaux/status/2117283355427495983",
+    "id": "2117412956950638872",
+    "canonicalId": "2117412956950638872",
+    "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team",
+    "createdAt": "2026-11-03T00:26:03.000Z",
+    "url": "https://x.com/thsottiaux/status/2117412956950638872",
     "media": []
   }
 }
