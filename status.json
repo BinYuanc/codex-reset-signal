@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T01:51:20.314Z",
+  "updatedAt": "2026-11-03T08:40:27.657Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-03T01:51:20.306Z",
-    "lastSuccessAt": "2026-11-03T01:51:20.306Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-11-03T08:40:27.646Z",
+    "lastSuccessAt": "2026-11-03T08:40:27.646Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2117412956950638872",
-    "text": "We know some Git-fu. Excited the team is finally able to talk about it a bit. Massive props to @tnm and team",
-    "url": "https://x.com/thsottiaux/status/2117412956950638872",
-    "postCreatedAt": "2026-11-03T00:26:03.000Z"
+    "id": "2117515752588853710",
+    "text": "@Raitox_tech 🫨",
+    "url": "https://x.com/thsottiaux/status/2117515752588853710",
+    "postCreatedAt": "2026-11-03T07:14:31.000Z"
   },
   "latest": {
     "reset": {
