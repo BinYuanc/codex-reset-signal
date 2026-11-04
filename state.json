@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2117515752588853710",
-  "lastCheckedAt": "2026-11-03T21:56:37.882Z",
-  "lastSuccessAt": "2026-11-03T21:56:37.882Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 581,
+  "sinceId": "2117746467058405665",
+  "lastCheckedAt": "2026-11-04T01:53:32.232Z",
+  "lastSuccessAt": "2026-11-04T01:53:32.232Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 582,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1176,15 +1176,16 @@
     "2117412956950638872": "a0bf06976acace72c0ea4c178156d34c9767516b7fdfbf684ed6d2bba5e76cdd",
     "2117489367417803042": "c443f9c8baf5a52ac7550077cd1b0783b115da40115d316b61fb3343ea2064fe",
     "2117506709417795626": "197322de1438cca2db3708bed1e771c6c7fbe624d4a08f9dfd724c5bd20e4ca8",
-    "2117515752588853710": "514fcef91054a256c44dfe6c6db5f8f26aa617c598e45c0b394d7a4117bad746"
+    "2117515752588853710": "514fcef91054a256c44dfe6c6db5f8f26aa617c598e45c0b394d7a4117bad746",
+    "2117746467058405665": "668b7b66861cfbbbf7cbf6379e9aac08ec20414acb64b5522a31eb87aeaaac1b"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2117515752588853710",
-    "canonicalId": "2117515752588853710",
-    "text": "@Raitox_tech 🫨",
-    "createdAt": "2026-11-03T07:14:31.000Z",
-    "url": "https://x.com/thsottiaux/status/2117515752588853710",
+    "id": "2117746467058405665",
+    "canonicalId": "2117746467058405665",
+    "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
+    "createdAt": "2026-11-03T22:31:18.000Z",
+    "url": "https://x.com/thsottiaux/status/2117746467058405665",
     "media": []
   }
 }
