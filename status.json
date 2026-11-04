@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T16:24:22.693Z",
+  "updatedAt": "2026-11-04T22:01:53.709Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T16:24:22.686Z",
-    "lastSuccessAt": "2026-11-04T16:24:22.686Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-04T22:01:53.703Z",
+    "lastSuccessAt": "2026-11-04T22:01:53.703Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2117889346426823037",
-    "text": "@haydenfield Asked chat and it confirmed the story",
-    "url": "https://x.com/thsottiaux/status/2117889346426823037",
-    "postCreatedAt": "2026-11-04T07:59:03.000Z"
+    "id": "2118024737070957009",
+    "text": "@AnikaCodes I was moved to the basement yesterday",
+    "url": "https://x.com/thsottiaux/status/2118024737070957009",
+    "postCreatedAt": "2026-11-04T16:57:02.000Z"
   },
   "latest": {
     "reset": {
