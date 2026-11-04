@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-04T01:53:32.238Z",
+  "updatedAt": "2026-11-04T08:17:25.185Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-04T01:53:32.232Z",
-    "lastSuccessAt": "2026-11-04T01:53:32.232Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-04T08:17:25.177Z",
+    "lastSuccessAt": "2026-11-04T08:17:25.177Z",
+    "lastRunStatus": "checked-7-posts"
   },
   "latestObservedPost": {
-    "id": "2117746467058405665",
-    "text": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-    "url": "https://x.com/thsottiaux/status/2117746467058405665",
-    "postCreatedAt": "2026-11-03T22:31:18.000Z"
+    "id": "2117889346426823037",
+    "text": "@haydenfield Asked chat and it confirmed the story",
+    "url": "https://x.com/thsottiaux/status/2117889346426823037",
+    "postCreatedAt": "2026-11-04T07:59:03.000Z"
   },
   "latest": {
     "reset": {
