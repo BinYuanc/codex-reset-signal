@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118255144836161582",
-  "lastCheckedAt": "2026-11-05T09:33:56.603Z",
-  "lastSuccessAt": "2026-11-05T09:33:56.603Z",
-  "lastRunStatus": "checked-10-posts",
-  "postsScanned": 610,
+  "sinceId": "2118376946652557613",
+  "lastCheckedAt": "2026-11-05T17:36:31.051Z",
+  "lastSuccessAt": "2026-11-05T17:36:31.051Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 611,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1205,15 +1205,16 @@
     "2118252192536973501": "6e3051d725b013d1699acff829cd46402de2e83e2943842f848ce09317e80c6b",
     "2118253609272177047": "01f90f451a5d21ce8688c46dbfa31da2aa4fa9dba6fc59ae4d35703c9e2c5b85",
     "2118254289894445278": "8291f0aed4c1d5f7808b2dbfe5603d52ecdeb4d48eab73a151ef632cb03db26b",
-    "2118255144836161582": "c29421d4c09ac0e3126b3ea72f57c739c4756f11b1a48764c62317681c2457dc"
+    "2118255144836161582": "c29421d4c09ac0e3126b3ea72f57c739c4756f11b1a48764c62317681c2457dc",
+    "2118376946652557613": "e1624794dc06315d016915ed1859f76bc4e0f7958baf9e8dcd0d43659dff61f6"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2118255144836161582",
-    "canonicalId": "2118255144836161582",
-    "text": "@theo @thdxr Congrats I guess",
-    "createdAt": "2026-11-05T08:12:36.000Z",
-    "url": "https://x.com/thsottiaux/status/2118255144836161582",
+    "id": "2118376946652557613",
+    "canonicalId": "2118376946652557613",
+    "text": "@ohayou792 Who comes up with these haha. Dane Starbuck. Haha",
+    "createdAt": "2026-11-05T16:16:36.000Z",
+    "url": "https://x.com/thsottiaux/status/2118376946652557613",
     "media": []
   }
 }
