@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T17:36:31.061Z",
+  "updatedAt": "2026-11-05T22:49:17.884Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-05T17:36:31.051Z",
-    "lastSuccessAt": "2026-11-05T17:36:31.051Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-05T22:49:17.877Z",
+    "lastSuccessAt": "2026-11-05T22:49:17.877Z",
+    "lastRunStatus": "checked-8-posts"
   },
   "latestObservedPost": {
-    "id": "2118376946652557613",
-    "text": "@ohayou792 Who comes up with these haha. Dane Starbuck. Haha",
-    "url": "https://x.com/thsottiaux/status/2118376946652557613",
-    "postCreatedAt": "2026-11-05T16:16:36.000Z"
+    "id": "2118473288368406582",
+    "text": "Generating*",
+    "url": "https://x.com/thsottiaux/status/2118473288368406582",
+    "postCreatedAt": "2026-11-05T22:39:25.000Z"
   },
   "latest": {
     "reset": {
