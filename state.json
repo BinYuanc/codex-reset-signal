@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118953661820977315",
-  "lastCheckedAt": "2026-11-07T14:56:56.192Z",
-  "lastSuccessAt": "2026-11-07T14:56:56.192Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 642,
+  "sinceId": "2119113983118672370",
+  "lastCheckedAt": "2026-11-07T19:15:42.123Z",
+  "lastSuccessAt": "2026-11-07T19:15:42.123Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 644,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1237,15 +1237,17 @@
     "2118953187344560319": "6f4e684365c79526d614cd037841798914114a217ec1c006e6f5ef5d9ecd9d6d",
     "2118953362725159104": "72ce60358613411e68ebea6dfc553fa4141cede1e9d2942dcc76ad22aa876e50",
     "2118953500432650621": "b562eca3ea23639b29e7602331ce57e5e25b4ec78ec62265dcf289f0fc3a1407",
-    "2118953661820977315": "db38a2bc40a8d21e5b8e8afea15533d97c25bc9ba98e8174cd752e9fc6f64ad9"
+    "2118953661820977315": "db38a2bc40a8d21e5b8e8afea15533d97c25bc9ba98e8174cd752e9fc6f64ad9",
+    "2119113859747426370": "5d0ddd1e64060b10bd9c2600def0e32f1231461917c1e57f754520447dabb741",
+    "2119113983118672370": "b0e7aae87602efa2652913245708e3d52d0a4df0bd123ccdba42810a0fd75401"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2118953661820977315",
-    "canonicalId": "2118953661820977315",
-    "text": "@theo Also, you really died 25 times? 😭",
-    "createdAt": "2026-11-07T06:28:15.000Z",
-    "url": "https://x.com/thsottiaux/status/2118953661820977315",
+    "id": "2119113983118672370",
+    "canonicalId": "2119113983118672370",
+    "text": "@rezoundous Nothing much",
+    "createdAt": "2026-11-07T17:05:19.000Z",
+    "url": "https://x.com/thsottiaux/status/2119113983118672370",
     "media": []
   }
 }
