@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2118802895604994463",
-  "lastCheckedAt": "2026-11-06T22:12:19.052Z",
-  "lastSuccessAt": "2026-11-06T22:12:19.052Z",
+  "sinceId": "2118874107341389982",
+  "lastCheckedAt": "2026-11-07T01:56:16.757Z",
+  "lastSuccessAt": "2026-11-07T01:56:16.757Z",
   "lastRunStatus": "checked-2-posts",
-  "postsScanned": 628,
+  "postsScanned": 630,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1223,15 +1223,17 @@
     "2118572184679710964": "038abf61f8269b23c0cab1a7c5f7be8159f61ba353f3ed6866fb75102ceb1627",
     "2118574897542922697": "bf01a1756f56b817727f15ff205a3ddb95d5bb6c40caea49b10f8b5a7d8140c1",
     "2118802796749508830": "08e2d1c76aa7d6960503b3aa8739310e15493ca39dc72b11855c6ffbc25e51d0",
-    "2118802895604994463": "2c3f54ea8d61725ca4dd9eee127ad30e4b2cc1bf1852e0a545dd8072fc36cce3"
+    "2118802895604994463": "2c3f54ea8d61725ca4dd9eee127ad30e4b2cc1bf1852e0a545dd8072fc36cce3",
+    "2118871902366441879": "a8c0d655bc16ddc70e0f5380da2e992e7a09853343906b1e2364525e4fe1d8ec",
+    "2118874107341389982": "441b5cafc91c97f6d6ab591644ad18a5b63c4d79e100c24412d9f8a3a023dce5"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2118802895604994463",
-    "canonicalId": "2118802895604994463",
-    "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://t.co/GiwgmJXL1t",
-    "createdAt": "2026-11-06T20:29:10.000Z",
-    "url": "https://x.com/thsottiaux/status/2118802895604994463",
+    "id": "2118874107341389982",
+    "canonicalId": "2118874107341389982",
+    "text": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
+    "createdAt": "2026-11-07T01:12:08.000Z",
+    "url": "https://x.com/thsottiaux/status/2118874107341389982",
     "media": []
   }
 }
