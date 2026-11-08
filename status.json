@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T19:47:45.016Z",
+  "updatedAt": "2026-11-08T23:12:15.523Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-08T19:47:44.873Z",
-    "lastSuccessAt": "2026-11-08T19:47:44.873Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-08T23:12:15.515Z",
+    "lastSuccessAt": "2026-11-08T23:12:15.515Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2119309070658318698",
-    "text": "@alexmichael @claudeai @bot @Meta @OpenAI Alfred plays to win",
-    "url": "https://x.com/thsottiaux/status/2119309070658318698",
-    "postCreatedAt": "2026-11-08T06:00:31.000Z"
+    "id": "2119532403593191733",
+    "text": "@garrytan Thanks for running those and publishing",
+    "url": "https://x.com/thsottiaux/status/2119532403593191733",
+    "postCreatedAt": "2026-11-08T20:47:58.000Z"
   },
   "latest": {
     "reset": {
