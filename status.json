@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-08T23:12:15.523Z",
+  "updatedAt": "2026-11-09T02:39:39.488Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-08T23:12:15.515Z",
-    "lastSuccessAt": "2026-11-08T23:12:15.515Z",
-    "lastRunStatus": "checked-2-posts"
+    "lastCheckedAt": "2026-11-09T02:39:39.467Z",
+    "lastSuccessAt": "2026-11-09T02:39:39.467Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2119532403593191733",
-    "text": "@garrytan Thanks for running those and publishing",
-    "url": "https://x.com/thsottiaux/status/2119532403593191733",
-    "postCreatedAt": "2026-11-08T20:47:58.000Z"
+    "id": "2119611877810639072",
+    "text": "@maria_rcks Congrats to Theo",
+    "url": "https://x.com/thsottiaux/status/2119611877810639072",
+    "postCreatedAt": "2026-11-09T02:03:46.000Z"
   },
   "latest": {
     "reset": {
