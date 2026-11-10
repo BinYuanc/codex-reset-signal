@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-10T02:59:32.096Z",
+  "updatedAt": "2026-11-10T10:55:25.958Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-10T02:59:32.089Z",
-    "lastSuccessAt": "2026-11-10T02:59:32.089Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-10T10:55:25.948Z",
+    "lastSuccessAt": "2026-11-10T10:55:25.948Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2119611877810639072",
-    "text": "@maria_rcks Congrats to Theo",
-    "url": "https://x.com/thsottiaux/status/2119611877810639072",
-    "postCreatedAt": "2026-11-09T02:03:46.000Z"
+    "id": "2120021043876106429",
+    "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+    "url": "https://x.com/thsottiaux/status/2120021043876106429",
+    "postCreatedAt": "2026-11-10T05:09:39.000Z"
   },
   "latest": {
     "reset": {
