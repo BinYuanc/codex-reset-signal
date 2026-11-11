@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T02:59:26.875Z",
+  "updatedAt": "2026-11-11T10:35:35.121Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-11T02:59:26.868Z",
-    "lastSuccessAt": "2026-11-11T02:59:26.868Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-11T10:35:35.113Z",
+    "lastSuccessAt": "2026-11-11T10:35:35.113Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2120304649807020238",
-    "text": "@embw_l0x We're assembling one of the best teams ever and I do talk to folks at Anthropic every once in a while. Couldn't be more excited for the months ahead.",
-    "url": "https://x.com/thsottiaux/status/2120304649807020238",
-    "postCreatedAt": "2026-11-10T23:56:36.000Z"
+    "id": "2120411235716063700",
+    "text": "@iso_morph Many such cases.",
+    "url": "https://x.com/thsottiaux/status/2120411235716063700",
+    "postCreatedAt": "2026-11-11T07:00:08.000Z"
   },
   "latest": {
     "reset": {
