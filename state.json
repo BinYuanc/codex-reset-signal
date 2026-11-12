@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2120411235716063700",
-  "lastCheckedAt": "2026-11-11T18:01:40.264Z",
-  "lastSuccessAt": "2026-11-11T18:01:40.264Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 670,
+  "sinceId": "2120621485442339277",
+  "lastCheckedAt": "2026-11-12T00:30:54.005Z",
+  "lastSuccessAt": "2026-11-12T00:30:54.005Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 671,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1265,15 +1265,16 @@
     "2120304649807020238": "28c975cc7ab55166b765948c8d58bf5d4cedf62d98bae80545d435429b344dfd",
     "2120410006273380750": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
     "2120410480204525936": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
-    "2120411235716063700": "69f6e3d9a8d3672a81c799c6cbee42f728362b829eff79d039988558abaca0b0"
+    "2120411235716063700": "69f6e3d9a8d3672a81c799c6cbee42f728362b829eff79d039988558abaca0b0",
+    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2120411235716063700",
-    "canonicalId": "2120411235716063700",
-    "text": "@iso_morph Many such cases.",
-    "createdAt": "2026-11-11T07:00:08.000Z",
-    "url": "https://x.com/thsottiaux/status/2120411235716063700",
+    "id": "2120621485442339277",
+    "canonicalId": "2120621485442339277",
+    "text": "@charlierguo Hi 👋 Buzz Buzz",
+    "createdAt": "2026-11-11T20:55:36.000Z",
+    "url": "https://x.com/thsottiaux/status/2120621485442339277",
     "media": []
   }
 }
