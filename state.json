@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2120621485442339277",
-  "lastCheckedAt": "2026-11-12T16:13:30.369Z",
-  "lastSuccessAt": "2026-11-12T16:13:30.369Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 671,
+  "sinceId": "2120999993079451919",
+  "lastCheckedAt": "2026-11-12T22:15:06.979Z",
+  "lastSuccessAt": "2026-11-12T22:15:06.979Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 672,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1266,15 +1266,16 @@
     "2120410006273380750": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
     "2120410480204525936": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
     "2120411235716063700": "69f6e3d9a8d3672a81c799c6cbee42f728362b829eff79d039988558abaca0b0",
-    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f"
+    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f",
+    "2120999993079451919": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2120621485442339277",
-    "canonicalId": "2120621485442339277",
-    "text": "@charlierguo Hi 👋 Buzz Buzz",
-    "createdAt": "2026-11-11T20:55:36.000Z",
-    "url": "https://x.com/thsottiaux/status/2120621485442339277",
+    "id": "2120999993079451919",
+    "canonicalId": "2120999993079451919",
+    "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+    "createdAt": "2026-11-12T21:59:39.000Z",
+    "url": "https://x.com/thsottiaux/status/2120999993079451919",
     "media": []
   }
 }
