@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12T22:15:06.985Z",
+  "updatedAt": "2026-11-13T02:39:12.961Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-12T22:15:06.979Z",
-    "lastSuccessAt": "2026-11-12T22:15:06.979Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-13T02:39:12.953Z",
+    "lastSuccessAt": "2026-11-13T02:39:12.953Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2120999993079451919",
-    "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
-    "url": "https://x.com/thsottiaux/status/2120999993079451919",
-    "postCreatedAt": "2026-11-12T21:59:39.000Z"
+    "id": "2121062974161092792",
+    "text": "How can codex be improved? Try not to say model.",
+    "url": "https://x.com/thsottiaux/status/2121062974161092792",
+    "postCreatedAt": "2026-11-13T02:09:55.000Z"
   },
   "latest": {
     "reset": {
