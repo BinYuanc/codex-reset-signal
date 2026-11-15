@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T00:06:36.649Z",
+  "updatedAt": "2026-11-15T06:18:09.976Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-15T00:06:36.643Z",
-    "lastSuccessAt": "2026-11-15T00:06:36.643Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-15T06:18:09.967Z",
+    "lastSuccessAt": "2026-11-15T06:18:09.967Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2121134582527594929",
-    "text": "@argofowl Hi 👋 Doing well. Team is busy",
-    "url": "https://x.com/thsottiaux/status/2121134582527594929",
-    "postCreatedAt": "2026-11-13T06:54:27.000Z"
+    "id": "2121845965997101118",
+    "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
+    "url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "postCreatedAt": "2026-11-15T06:01:14.000Z"
   },
   "latest": {
     "reset": {
