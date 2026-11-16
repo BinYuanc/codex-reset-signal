@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2121845965997101118",
-  "lastCheckedAt": "2026-11-16T02:59:04.514Z",
-  "lastSuccessAt": "2026-11-16T02:59:04.514Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 678,
+  "sinceId": "2122206990101536852",
+  "lastCheckedAt": "2026-11-16T10:49:44.489Z",
+  "lastSuccessAt": "2026-11-16T10:49:44.489Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 679,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1273,15 +1273,24 @@
     "2121132035653894561": "92e0768eedb4122f3573985089c78d223d471994521b06e73ff26ce99022dc9c",
     "2121132369696747608": "4bd1f5987cf5054ad496bb35c4a86b49870eeeb78ec09d6b649d1647e3ebd5af",
     "2121134582527594929": "99f20c42e8876eb0b4b8865205e29c3f03ca08d8708dfb8af4f9ee5082eddf74",
-    "2121845965997101118": "cd3a8cae6a2e03fc3ac1f1f6e9ab4a38331b5adabefe02b336057a91a0cac762"
+    "2121845965997101118": "cd3a8cae6a2e03fc3ac1f1f6e9ab4a38331b5adabefe02b336057a91a0cac762",
+    "2122206990101536852": "079920e9348372354e0b65b400af43a6a17b5a808bf8a691768dbf5e544c2bdf"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2121845965997101118",
-    "canonicalId": "2121845965997101118",
-    "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
-    "createdAt": "2026-11-15T06:01:14.000Z",
-    "url": "https://x.com/thsottiaux/status/2121845965997101118",
-    "media": []
+    "id": "2122206990101536852",
+    "canonicalId": "2122206990101536852",
+    "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
+    "createdAt": "2026-11-16T05:55:49.000Z",
+    "url": "https://x.com/thsottiaux/status/2122206990101536852",
+    "media": [
+      {
+        "mediaKey": "2122206888217698304",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HXOX68AaYAAlezW.jpg?name=orig",
+        "previewImageUrl": null,
+        "altText": null
+      }
+    ]
   }
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T02:59:04.521Z",
+  "updatedAt": "2026-11-16T10:49:44.494Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-16T02:59:04.514Z",
-    "lastSuccessAt": "2026-11-16T02:59:04.514Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-16T10:49:44.489Z",
+    "lastSuccessAt": "2026-11-16T10:49:44.489Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2121845965997101118",
-    "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming &amp; defense factory... What can we do better or improve?",
-    "url": "https://x.com/thsottiaux/status/2121845965997101118",
-    "postCreatedAt": "2026-11-15T06:01:14.000Z"
+    "id": "2122206990101536852",
+    "text": "Codex team might have actually fixed the \"model at capacity\" errors that have been pestering you. https://t.co/EgS0HkOATY",
+    "url": "https://x.com/thsottiaux/status/2122206990101536852",
+    "postCreatedAt": "2026-11-16T05:55:49.000Z"
   },
   "latest": {
     "reset": {
