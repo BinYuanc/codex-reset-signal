@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2122754551187132438",
-  "lastCheckedAt": "2026-11-17T20:05:21.846Z",
-  "lastSuccessAt": "2026-11-17T20:05:21.846Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 682,
+  "sinceId": "2122851449474605281",
+  "lastCheckedAt": "2026-11-18T02:21:59.961Z",
+  "lastSuccessAt": "2026-11-18T02:21:59.961Z",
+  "lastRunStatus": "checked-5-posts",
+  "postsScanned": 687,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1277,23 +1277,20 @@
     "2122206990101536852": "079920e9348372354e0b65b400af43a6a17b5a808bf8a691768dbf5e544c2bdf",
     "2122534533216268747": "762bf0a0ff52b0785c7df7c9bed5739cbe8702d35d80c05730325b6bc963e14c",
     "2122753991000133943": "6a081793cc0525495a517d3c984e419ddf6add9235c297098426c156c4bc7910",
-    "2122754551187132438": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b"
+    "2122754551187132438": "750909f9b816c5cd538bf49562f7c0f2afe60cf1ba04fa5e47bb7240cc53d55b",
+    "2122815564821434613": "ce7597add272b03052af2fd26bd10a027c9c742ec502e97660042f7257a3142b",
+    "2122816053348847795": "4412beb5878a6cfb12e674d4d5b7b556ac61c4507249480c895a5547e1d66269",
+    "2122816458711548126": "d26e31b1706f8680bd62f6249941231121f97e258c64fe00a068db4f658a9a3b",
+    "2122850498202271748": "a03e5ede914cd7784429a1aeb7933adde730518919d878051c8394426dd49cab",
+    "2122851449474605281": "47af6c5b6161f17623b4a552240be9d993cfa1f1e497b9aa09f651436c8a9750"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2122754551187132438",
-    "canonicalId": "2122754551187132438",
-    "text": "These models are extremely efficient, which you feel in speed to complete tasks, cost and how much further your usage goes https://t.co/HIFob2j9Ag",
-    "createdAt": "2026-11-17T18:11:38.000Z",
-    "url": "https://x.com/thsottiaux/status/2122754551187132438",
-    "media": [
-      {
-        "mediaKey": "2122754370001600512",
-        "type": "photo",
-        "url": "https://pbs.twimg.com/media/HXWJ2klagAAb-MU.png?name=orig",
-        "previewImageUrl": null,
-        "altText": null
-      }
-    ]
+    "id": "2122851449474605281",
+    "canonicalId": "2122851449474605281",
+    "text": "@skalskip92 Awkward",
+    "createdAt": "2026-11-18T00:36:40.000Z",
+    "url": "https://x.com/thsottiaux/status/2122851449474605281",
+    "media": []
   }
 }
