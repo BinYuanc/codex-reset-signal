@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2122954129094111394",
-  "lastCheckedAt": "2026-11-18T10:23:39.034Z",
-  "lastSuccessAt": "2026-11-18T10:23:39.034Z",
-  "lastRunStatus": "checked-13-posts",
-  "postsScanned": 700,
+  "sinceId": "2123113107048501273",
+  "lastCheckedAt": "2026-11-18T18:55:41.055Z",
+  "lastSuccessAt": "2026-11-18T18:55:41.055Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 703,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1295,15 +1295,18 @@
     "2122952910137135379": "f5cc194caf6a5e0a66021b9bd15d8b965aa6787a4229b8191267cb25d45635df",
     "2122953161921196052": "f90e69d07bfc18bb16ea2f01d0a75f14ce597c3bb768c053f3180ce533dc97a2",
     "2122953953851879880": "97536de6742ac9ddfb05b3db50c4d79abc158822ffa8f8a95f8f13262d3c54e5",
-    "2122954129094111394": "397ea7bb97dc934a0631a57b5240bf08fa3c03ac6a989538c5a97ff220140605"
+    "2122954129094111394": "397ea7bb97dc934a0631a57b5240bf08fa3c03ac6a989538c5a97ff220140605",
+    "2123112623294320913": "d849906bae4379029330b2f60bbf7660d6ab3a9438b04e1c00f3406c20bf753c",
+    "2123112903809318994": "78c4f530d9f743f1ec0c41da49a2fd5b38d251f59db4fc4798bce69e8705cb8f",
+    "2123113107048501273": "a24ba6fd0d48db63ed8ba8ec0b370b59ce9bcd31fc42aded3f0e8b0e43eff2bc"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2122954129094111394",
-    "canonicalId": "2122954129094111394",
-    "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
-    "createdAt": "2026-11-18T07:24:41.000Z",
-    "url": "https://x.com/thsottiaux/status/2122954129094111394",
+    "id": "2123113107048501273",
+    "canonicalId": "2123113107048501273",
+    "text": "How is 6.2 Sol treating you today?",
+    "createdAt": "2026-11-18T17:56:24.000Z",
+    "url": "https://x.com/thsottiaux/status/2123113107048501273",
     "media": []
   }
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T10:23:39.041Z",
+  "updatedAt": "2026-11-18T18:55:41.061Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-18T10:23:39.034Z",
-    "lastSuccessAt": "2026-11-18T10:23:39.034Z",
-    "lastRunStatus": "checked-13-posts"
+    "lastCheckedAt": "2026-11-18T18:55:41.055Z",
+    "lastSuccessAt": "2026-11-18T18:55:41.055Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2122954129094111394",
-    "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
-    "url": "https://x.com/thsottiaux/status/2122954129094111394",
-    "postCreatedAt": "2026-11-18T07:24:41.000Z"
+    "id": "2123113107048501273",
+    "text": "How is 6.2 Sol treating you today?",
+    "url": "https://x.com/thsottiaux/status/2123113107048501273",
+    "postCreatedAt": "2026-11-18T17:56:24.000Z"
   },
   "latest": {
     "reset": {
