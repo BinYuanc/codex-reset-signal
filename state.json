@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123179276199735535",
-  "lastCheckedAt": "2026-11-19T17:28:10.576Z",
-  "lastSuccessAt": "2026-11-19T17:28:10.576Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 707,
+  "sinceId": "2123557171321561133",
+  "lastCheckedAt": "2026-11-19T23:42:45.664Z",
+  "lastSuccessAt": "2026-11-19T23:42:45.664Z",
+  "lastRunStatus": "checked-7-posts",
+  "postsScanned": 714,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1302,15 +1302,30 @@
     "2123150581321883811": "7421c9a8ba700c0a7781a73666b4e2b7a032c6cff9c131579c1389e379991f0f",
     "2123151267002503570": "06498a8eeec8a31e9badb1deb9129d0998928d82d87474ab23ee76a1704a76f4",
     "2123175166519992652": "fbae532ef257f6a6572d7ccda534a9924981dece4bed7bc8a45ad4766c9025b5",
-    "2123179276199735535": "61b537d9a9df332a041790dca8d9c738784991bf2f0c2faeffdb34908af1cbf1"
+    "2123179276199735535": "61b537d9a9df332a041790dca8d9c738784991bf2f0c2faeffdb34908af1cbf1",
+    "2123498899298210201": "3575dbf43ec0dced771d0b999d6d7f6796a7fe7893d3b559e368c20f1046cb70",
+    "2123505331531882923": "08408a0dda1caa9595d145cff88369ab5ee9a9a4707aa973e26b529e5814927a",
+    "2123505661741084830": "9519ce45a875f16bd2ee3b25cd4c122b35d7552e84c157d75e33687aa9b8ce9c",
+    "2123527632700747862": "3db24f107e0c3943a40a2aec38ab7cdf97215275fbba8bd0c2cddf81f1767fcf",
+    "2123527849403674729": "963704788715d05a53e4d4da2af59baf4b2306d7cde38262b2e4deef65d6c4d1",
+    "2123556256392847657": "a320ef3957d0f0a24c09bd89796f926cf1dd0ef051aa88633fe05bde6c9c5457",
+    "2123557171321561133": "5896f51177f93d154a28e0871c00c4bdf4fab3c93e30c837150441f0f5b8153f"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2123179276199735535",
-    "canonicalId": "2123179276199735535",
-    "text": "@DannyIO It does like math",
-    "createdAt": "2026-11-18T22:19:20.000Z",
-    "url": "https://x.com/thsottiaux/status/2123179276199735535",
-    "media": []
+    "id": "2123557171321561133",
+    "canonicalId": "2123557171321561133",
+    "text": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one. Your dot gets its own tab, and you can pin Codex, Projects, Images, and more to the tab bar. Some of you will see the new experience by default. \n\nYou can turn it on or off anytime in Settings > New ChatGPT Design. \n\nSuper excited to hear your feedback before we roll it out more widely!",
+    "createdAt": "2026-11-19T23:20:58.000Z",
+    "url": "https://x.com/thsottiaux/status/2123557171321561133",
+    "media": [
+      {
+        "mediaKey": "2123557071723565056",
+        "type": "video",
+        "url": "https://video.twimg.com/amplify_video/2123557071723565056/vid/avc1/1080x1350/MD4H-9s2BwfKh_XA.mp4?tag=29",
+        "previewImageUrl": "https://pbs.twimg.com/amplify_video_thumb/2123557071723565056/img/DO1s4ZVPR6Yamusk.jpg",
+        "altText": null
+      }
+    ]
   }
 }
