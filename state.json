@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123693044465906132",
-  "lastCheckedAt": "2026-11-20T13:13:45.971Z",
-  "lastSuccessAt": "2026-11-20T13:13:45.971Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 720,
+  "sinceId": "2123867163345961285",
+  "lastCheckedAt": "2026-11-20T21:08:04.276Z",
+  "lastSuccessAt": "2026-11-20T21:08:04.276Z",
+  "lastRunStatus": "checked-4-posts",
+  "postsScanned": 724,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1315,15 +1315,19 @@
     "2123621880636883137": "7d5ca50b4820c9d911c90f000473bfe51f5082b2ee485e82dda77717cd72333e",
     "2123626048185336175": "fc101bf33088b95b770e2475dd2d489f479f6e6254205c4328a2d7318a6c6187",
     "2123626421138702627": "3336c5c39100f959a505f903c5503cd6bd911090bb86b8021d2354ce25eb9d71",
-    "2123693044465906132": "4a06a9627c50867dd8467f831ab158763f8c98a9c936309c7ae1325a6b2d636f"
+    "2123693044465906132": "4a06a9627c50867dd8467f831ab158763f8c98a9c936309c7ae1325a6b2d636f",
+    "2123859787079426435": "669e10a273beab5bae4c3ddab9266dcb5cf81a54a35de8099b21775e3f9b5893",
+    "2123861214644347122": "0f227b3bb591cff09af871db4d3e4c93be6c417e4d9428f3f067059395534407",
+    "2123864112694509995": "4d0f2e42551634df9ebd5a34b4d59f3cb14bb15fbcc40a75d9417c4876e06f90",
+    "2123867163345961285": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2123693044465906132",
-    "canonicalId": "2123693044465906132",
-    "text": "@tszzl @thibaudz @Roon 🫨",
-    "createdAt": "2026-11-20T08:20:52.000Z",
-    "url": "https://x.com/thsottiaux/status/2123693044465906132",
+    "id": "2123867163345961285",
+    "canonicalId": "2123867163345961285",
+    "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+    "createdAt": "2026-11-20T19:52:45.000Z",
+    "url": "https://x.com/thsottiaux/status/2123867163345961285",
     "media": []
   }
 }

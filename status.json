@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T13:13:45.978Z",
+  "updatedAt": "2026-11-20T21:08:04.282Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-20T13:13:45.971Z",
-    "lastSuccessAt": "2026-11-20T13:13:45.971Z",
-    "lastRunStatus": "checked-1-posts"
+    "lastCheckedAt": "2026-11-20T21:08:04.276Z",
+    "lastSuccessAt": "2026-11-20T21:08:04.276Z",
+    "lastRunStatus": "checked-4-posts"
   },
   "latestObservedPost": {
-    "id": "2123693044465906132",
-    "text": "@tszzl @thibaudz @Roon 🫨",
-    "url": "https://x.com/thsottiaux/status/2123693044465906132",
-    "postCreatedAt": "2026-11-20T08:20:52.000Z"
+    "id": "2123867163345961285",
+    "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+    "url": "https://x.com/thsottiaux/status/2123867163345961285",
+    "postCreatedAt": "2026-11-20T19:52:45.000Z"
   },
   "latest": {
     "reset": {
