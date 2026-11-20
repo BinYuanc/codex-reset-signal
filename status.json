@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-19T23:42:45.671Z",
+  "updatedAt": "2026-11-20T04:19:58.513Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-19T23:42:45.664Z",
-    "lastSuccessAt": "2026-11-19T23:42:45.664Z",
-    "lastRunStatus": "checked-7-posts"
+    "lastCheckedAt": "2026-11-20T04:19:58.508Z",
+    "lastSuccessAt": "2026-11-20T04:19:58.508Z",
+    "lastRunStatus": "checked-5-posts"
   },
   "latestObservedPost": {
-    "id": "2123557171321561133",
-    "text": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one. Your dot gets its own tab, and you can pin Codex, Projects, Images, and more to the tab bar. Some of you will see the new experience by default. \n\nYou can turn it on or off anytime in Settings > New ChatGPT Design. \n\nSuper excited to hear your feedback before we roll it out more widely!",
-    "url": "https://x.com/thsottiaux/status/2123557171321561133",
-    "postCreatedAt": "2026-11-19T23:20:58.000Z"
+    "id": "2123626421138702627",
+    "text": "@lawgimenez @ajambrosino We have a little leaderboard for pinned tabs and codex moved to top spot in no time",
+    "url": "https://x.com/thsottiaux/status/2123626421138702627",
+    "postCreatedAt": "2026-11-20T03:56:08.000Z"
   },
   "latest": {
     "reset": {
