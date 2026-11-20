@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123626421138702627",
-  "lastCheckedAt": "2026-11-20T04:19:58.508Z",
-  "lastSuccessAt": "2026-11-20T04:19:58.508Z",
-  "lastRunStatus": "checked-5-posts",
-  "postsScanned": 719,
+  "sinceId": "2123693044465906132",
+  "lastCheckedAt": "2026-11-20T13:13:45.971Z",
+  "lastSuccessAt": "2026-11-20T13:13:45.971Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 720,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1314,15 +1314,16 @@
     "2123612889416339762": "06dac6a158378ef97d4e8058a5e713cfac57f89ade8d06666cf9fe2858c4d709",
     "2123621880636883137": "7d5ca50b4820c9d911c90f000473bfe51f5082b2ee485e82dda77717cd72333e",
     "2123626048185336175": "fc101bf33088b95b770e2475dd2d489f479f6e6254205c4328a2d7318a6c6187",
-    "2123626421138702627": "3336c5c39100f959a505f903c5503cd6bd911090bb86b8021d2354ce25eb9d71"
+    "2123626421138702627": "3336c5c39100f959a505f903c5503cd6bd911090bb86b8021d2354ce25eb9d71",
+    "2123693044465906132": "4a06a9627c50867dd8467f831ab158763f8c98a9c936309c7ae1325a6b2d636f"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2123626421138702627",
-    "canonicalId": "2123626421138702627",
-    "text": "@lawgimenez @ajambrosino We have a little leaderboard for pinned tabs and codex moved to top spot in no time",
-    "createdAt": "2026-11-20T03:56:08.000Z",
-    "url": "https://x.com/thsottiaux/status/2123626421138702627",
+    "id": "2123693044465906132",
+    "canonicalId": "2123693044465906132",
+    "text": "@tszzl @thibaudz @Roon 🫨",
+    "createdAt": "2026-11-20T08:20:52.000Z",
+    "url": "https://x.com/thsottiaux/status/2123693044465906132",
     "media": []
   }
 }
