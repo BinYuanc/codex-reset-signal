@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T21:08:04.282Z",
+  "updatedAt": "2026-11-21T02:10:37.679Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-20T21:08:04.276Z",
-    "lastSuccessAt": "2026-11-20T21:08:04.276Z",
-    "lastRunStatus": "checked-4-posts"
+    "lastCheckedAt": "2026-11-21T02:10:37.674Z",
+    "lastSuccessAt": "2026-11-21T02:10:37.674Z",
+    "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2123867163345961285",
-    "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
-    "url": "https://x.com/thsottiaux/status/2123867163345961285",
-    "postCreatedAt": "2026-11-20T19:52:45.000Z"
+    "id": "2123901067272618336",
+    "text": "@theo @maria_rcks But is it true",
+    "url": "https://x.com/thsottiaux/status/2123901067272618336",
+    "postCreatedAt": "2026-11-20T22:07:29.000Z"
   },
   "latest": {
     "reset": {

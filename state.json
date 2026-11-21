@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123867163345961285",
-  "lastCheckedAt": "2026-11-20T21:08:04.276Z",
-  "lastSuccessAt": "2026-11-20T21:08:04.276Z",
-  "lastRunStatus": "checked-4-posts",
-  "postsScanned": 724,
+  "sinceId": "2123901067272618336",
+  "lastCheckedAt": "2026-11-21T02:10:37.674Z",
+  "lastSuccessAt": "2026-11-21T02:10:37.674Z",
+  "lastRunStatus": "checked-1-posts",
+  "postsScanned": 725,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1319,15 +1319,16 @@
     "2123859787079426435": "669e10a273beab5bae4c3ddab9266dcb5cf81a54a35de8099b21775e3f9b5893",
     "2123861214644347122": "0f227b3bb591cff09af871db4d3e4c93be6c417e4d9428f3f067059395534407",
     "2123864112694509995": "4d0f2e42551634df9ebd5a34b4d59f3cb14bb15fbcc40a75d9417c4876e06f90",
-    "2123867163345961285": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240"
+    "2123867163345961285": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240",
+    "2123901067272618336": "0b31b0ded5cf79242d8491b3bc8fe51197107a302fd4616ce475291e1345b9ed"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2123867163345961285",
-    "canonicalId": "2123867163345961285",
-    "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
-    "createdAt": "2026-11-20T19:52:45.000Z",
-    "url": "https://x.com/thsottiaux/status/2123867163345961285",
+    "id": "2123901067272618336",
+    "canonicalId": "2123901067272618336",
+    "text": "@theo @maria_rcks But is it true",
+    "createdAt": "2026-11-20T22:07:29.000Z",
+    "url": "https://x.com/thsottiaux/status/2123901067272618336",
     "media": []
   }
 }
