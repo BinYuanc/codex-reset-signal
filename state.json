@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2123998117561532424",
-  "lastCheckedAt": "2026-11-21T22:04:15.916Z",
-  "lastSuccessAt": "2026-11-21T22:04:15.916Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 727,
+  "sinceId": "2124322968499282388",
+  "lastCheckedAt": "2026-11-22T02:06:44.338Z",
+  "lastSuccessAt": "2026-11-22T02:06:44.338Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 729,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1322,15 +1322,17 @@
     "2123867163345961285": "66e33be0661d7e3978934884f56f14df52d0b18c579cbee2022fced5bd0f8240",
     "2123901067272618336": "0b31b0ded5cf79242d8491b3bc8fe51197107a302fd4616ce475291e1345b9ed",
     "2123997735326232775": "83154c9c2dccaa2c5f9971a5786343fb0e57719d1453a26361aab2cbb7136cf4",
-    "2123998117561532424": "c6e8ad920deaf169c09ced90de86cb63dc106e3c5fb80c607d9a71717af7a1fb"
+    "2123998117561532424": "c6e8ad920deaf169c09ced90de86cb63dc106e3c5fb80c607d9a71717af7a1fb",
+    "2124277855131664869": "a237d2c0d045712b6cdf9238c563a98febe02c3aadb7e5e7dbb668736bde8a9f",
+    "2124322968499282388": "213256bedba121f2bc4fdf705714c7c199577492cd16f3361bb8e8f86a781db5"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2123998117561532424",
-    "canonicalId": "2123998117561532424",
-    "text": "@DylanMcD8 DYLAN, HI! 👋",
-    "createdAt": "2026-11-21T04:33:07.000Z",
-    "url": "https://x.com/thsottiaux/status/2123998117561532424",
+    "id": "2124322968499282388",
+    "canonicalId": "2124322968499282388",
+    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+    "createdAt": "2026-11-22T02:03:58.000Z",
+    "url": "https://x.com/thsottiaux/status/2124322968499282388",
     "media": []
   }
 }

@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T22:04:15.922Z",
+  "updatedAt": "2026-11-22T02:06:44.344Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-21T22:04:15.916Z",
-    "lastSuccessAt": "2026-11-21T22:04:15.916Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-22T02:06:44.338Z",
+    "lastSuccessAt": "2026-11-22T02:06:44.338Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2123998117561532424",
-    "text": "@DylanMcD8 DYLAN, HI! 👋",
-    "url": "https://x.com/thsottiaux/status/2123998117561532424",
-    "postCreatedAt": "2026-11-21T04:33:07.000Z"
+    "id": "2124322968499282388",
+    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+    "url": "https://x.com/thsottiaux/status/2124322968499282388",
+    "postCreatedAt": "2026-11-22T02:03:58.000Z"
   },
   "latest": {
     "reset": {
