@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2124998553856844186",
-  "lastCheckedAt": "2026-11-24T00:05:03.941Z",
-  "lastSuccessAt": "2026-11-24T00:05:03.941Z",
-  "lastRunStatus": "checked-5-posts",
-  "postsScanned": 734,
+  "sinceId": "2125141302501417232",
+  "lastCheckedAt": "2026-11-24T09:44:22.615Z",
+  "lastSuccessAt": "2026-11-24T09:44:22.615Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 736,
   "matches": [
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1329,15 +1329,17 @@
     "2124922412219486443": "60cf1e6fccd6f0b743135a0a1a61cb24df4b6c733a1b6afee7a1c73e411e748d",
     "2124923055072043052": "7c08671ab1f7155738cb17eb7c7ee0bc6c71f466f3ea4ea0dfd88e1f9336d2e7",
     "2124923142762361133": "7a73e2b60bed38773646b56d943761d68071b0dc5a32b9109a598d7ec01e0c0b",
-    "2124998553856844186": "32a130c0595644f77981f44d5d1e69137e544076870d3fa68c08a30cfd64acef"
+    "2124998553856844186": "32a130c0595644f77981f44d5d1e69137e544076870d3fa68c08a30cfd64acef",
+    "2125027477877887231": "97d58b05cb3fa56e00411aa0ecfc3721d1f503d1e28d0181a1ce74fcb7877440",
+    "2125141302501417232": "2846590c2803244ebcb6c190b40e64867651b91a031c1a1a968c923559894668"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2124998553856844186",
-    "canonicalId": "2124998553856844186",
-    "text": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.\n\nTogether with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the end of the year.",
-    "createdAt": "2026-11-23T22:48:30.000Z",
-    "url": "https://x.com/thsottiaux/status/2124998553856844186",
+    "id": "2125141302501417232",
+    "canonicalId": "2125141302501417232",
+    "text": "We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity. \n\nEverything needs to be built to be operated safely by aligned agents at machine speed.",
+    "createdAt": "2026-11-24T08:15:44.000Z",
+    "url": "https://x.com/thsottiaux/status/2125141302501417232",
     "media": []
   }
 }

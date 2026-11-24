@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T00:05:03.947Z",
+  "updatedAt": "2026-11-24T09:44:22.622Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-24T00:05:03.941Z",
-    "lastSuccessAt": "2026-11-24T00:05:03.941Z",
-    "lastRunStatus": "checked-5-posts"
+    "lastCheckedAt": "2026-11-24T09:44:22.615Z",
+    "lastSuccessAt": "2026-11-24T09:44:22.615Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2124998553856844186",
-    "text": "You should feel a significant jump in quality of answers on ChatGPT once rolled out to you.\n\nTogether with all the investments we are making across simplifying the app, making it faster and merging chat & work, it's going to be quite the improvement in day to day experience by the end of the year.",
-    "url": "https://x.com/thsottiaux/status/2124998553856844186",
-    "postCreatedAt": "2026-11-23T22:48:30.000Z"
+    "id": "2125141302501417232",
+    "text": "We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity. \n\nEverything needs to be built to be operated safely by aligned agents at machine speed.",
+    "url": "https://x.com/thsottiaux/status/2125141302501417232",
+    "postCreatedAt": "2026-11-24T08:15:44.000Z"
   },
   "latest": {
     "reset": {
