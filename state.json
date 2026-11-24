@@ -3,12 +3,40 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2125141302501417232",
-  "lastCheckedAt": "2026-11-24T09:44:22.615Z",
-  "lastSuccessAt": "2026-11-24T09:44:22.615Z",
-  "lastRunStatus": "checked-2-posts",
-  "postsScanned": 736,
+  "sinceId": "2125299467691987445",
+  "lastCheckedAt": "2026-11-24T20:22:20.560Z",
+  "lastSuccessAt": "2026-11-24T20:22:20.560Z",
+  "lastRunStatus": "checked-4-posts",
+  "postsScanned": 740,
   "matches": [
+    {
+      "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+      "id": "2125299248782778588",
+      "canonicalId": "2125299248782778588",
+      "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
+      "createdAt": "2026-11-24T18:43:21.000Z",
+      "url": "https://x.com/thsottiaux/status/2125299248782778588",
+      "media": [],
+      "detectedAt": "2026-11-24T20:22:20.560Z",
+      "events": [
+        {
+          "type": "bank_credit",
+          "status": "scheduled",
+          "evidence": "We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31",
+          "time": {
+            "kind": "date",
+            "start": "2026-12-31T08:00:00.000Z",
+            "end": "2027-01-01T08:00:00.000Z",
+            "evidence": "Dec 31",
+            "note": "按配置假设原文时区为 America/Los_Angeles"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-24T20:22:20.566Z"
+    },
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
       "id": "2113492187770175603",
@@ -562,33 +590,6 @@
         }
       ],
       "notifiedAt": "2026-10-04T20:37:29.280Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "8d648cfa3f70b05d1282442dffd0dadac8cd4f88b8eb31561308956090ce3da1",
-      "id": "2106233145163141249",
-      "text": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it",
-      "createdAt": "2026-10-03T04:01:28.000Z",
-      "url": "https://x.com/thsottiaux/status/2106233145163141249",
-      "media": [],
-      "detectedAt": "2026-10-03T04:02:27.379Z",
-      "events": [
-        {
-          "type": "reset",
-          "status": "announced",
-          "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "Seeing some reports that the Pro 500 didn’t get the reset as expected earlier",
-            "note": "原文没有可确定的时间"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-03T04:02:27.384Z",
       "channels": [
         "github-actions"
       ]
@@ -1331,15 +1332,19 @@
     "2124923142762361133": "7a73e2b60bed38773646b56d943761d68071b0dc5a32b9109a598d7ec01e0c0b",
     "2124998553856844186": "32a130c0595644f77981f44d5d1e69137e544076870d3fa68c08a30cfd64acef",
     "2125027477877887231": "97d58b05cb3fa56e00411aa0ecfc3721d1f503d1e28d0181a1ce74fcb7877440",
-    "2125141302501417232": "2846590c2803244ebcb6c190b40e64867651b91a031c1a1a968c923559894668"
+    "2125141302501417232": "2846590c2803244ebcb6c190b40e64867651b91a031c1a1a968c923559894668",
+    "2125284868414394550": "dbf52068abe69888664998866650d805cbe9620888efce920d4b6ff3135bb7ee",
+    "2125299248782778588": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
+    "2125299436964479474": "8072b31aa5864775c3e4ea9e4d5b8fa9c5868a81d5807d7cb6ba7efa30668258",
+    "2125299467691987445": "ee02a3d72b86ea643bc282984dd2ff94bf7f37e97ccbcfb7a3cade3c8e51bf5f"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2125141302501417232",
-    "canonicalId": "2125141302501417232",
-    "text": "We’re working with Cisco on what we think are going to be key infrastructure primitives in the new era of cybersecurity. \n\nEverything needs to be built to be operated safely by aligned agents at machine speed.",
-    "createdAt": "2026-11-24T08:15:44.000Z",
-    "url": "https://x.com/thsottiaux/status/2125141302501417232",
+    "id": "2125299467691987445",
+    "canonicalId": "2125299467691987445",
+    "text": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
+    "createdAt": "2026-11-24T18:44:13.000Z",
+    "url": "https://x.com/thsottiaux/status/2125299467691987445",
     "media": []
   }
 }

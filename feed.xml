@@ -4,8 +4,21 @@
     <title>Codex Reset Signal · @thsottiaux</title>
     <link>https://x.com/thsottiaux</link>
     <description>Actionable reset and bank-credit signals detected by codex-reset-signal.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 09:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:22:20 GMT</lastBuildDate>
     <generator>codex-reset-signal</generator>
+    <item>
+      <guid isPermaLink="false">2125299248782778588:bank_credit</guid>
+      <title>Bank credit · scheduled · @thsottiaux</title>
+      <link>https://x.com/thsottiaux/status/2125299248782778588</link>
+      <pubDate>Tue, 24 Nov 2026 18:43:21 GMT</pubDate>
+      <category>bank_credit</category>
+      <description>Bank credit · scheduled
+Time: 2026-12-31T08:00:00.000Z → 2027-01-01T08:00:00.000Z
+Note: 按配置假设原文时区为 America/Los_Angeles
+Evidence: We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31
+
+To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!</description>
+    </item>
     <item>
       <guid isPermaLink="false">2109812360596865224:reset</guid>
       <title>Reset · announced · @thsottiaux</title>
@@ -57,19 +70,6 @@ Note: 原文没有可确定的时间
 Evidence: Global reset by EOD
 
 Global reset by EOD. May the tokens do good things for you.</description>
-    </item>
-    <item>
-      <guid isPermaLink="false">2106233145163141249:reset</guid>
-      <title>Reset · announced · @thsottiaux</title>
-      <link>https://x.com/thsottiaux/status/2106233145163141249</link>
-      <pubDate>Sat, 03 Oct 2026 04:01:28 GMT</pubDate>
-      <category>reset</category>
-      <description>Reset · announced
-Timing: Seeing some reports that the Pro 500 didn’t get the reset as expected earlier
-Note: 原文没有可确定的时间
-Evidence: Seeing some reports that the Pro 500 didn’t get the reset as expected earlier
-
-Seeing some reports that the Pro 500 didn’t get the reset as expected earlier. Investigating and will make up for it</description>
     </item>
   </channel>
 </rss>
