@@ -3,16 +3,15 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2125299467691987445",
-  "lastCheckedAt": "2026-11-24T20:22:20.560Z",
-  "lastSuccessAt": "2026-11-24T20:22:20.560Z",
-  "lastRunStatus": "checked-4-posts",
-  "postsScanned": 740,
+  "sinceId": "2125388306842255694",
+  "lastCheckedAt": "2026-11-25T03:36:24.591Z",
+  "lastSuccessAt": "2026-11-25T03:36:24.591Z",
+  "lastRunStatus": "checked-3-posts",
+  "postsScanned": 743,
   "matches": [
     {
       "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
       "id": "2125299248782778588",
-      "canonicalId": "2125299248782778588",
       "text": "To all the ChatGPT Business teams out there. We have two small things for you, a banked reset and fast mode at no extra charge through Dec 31. Have fun!",
       "createdAt": "2026-11-24T18:43:21.000Z",
       "url": "https://x.com/thsottiaux/status/2125299248782778588",
@@ -32,10 +31,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-11-24T20:22:20.566Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-11-24T20:22:20.566Z"
+      ]
     },
     {
       "version": "84e83973968a4c109d3e23f1603ecf6dbb16af8820693e625bd2006eebeccbfb",
@@ -1336,15 +1335,18 @@
     "2125284868414394550": "dbf52068abe69888664998866650d805cbe9620888efce920d4b6ff3135bb7ee",
     "2125299248782778588": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
     "2125299436964479474": "8072b31aa5864775c3e4ea9e4d5b8fa9c5868a81d5807d7cb6ba7efa30668258",
-    "2125299467691987445": "ee02a3d72b86ea643bc282984dd2ff94bf7f37e97ccbcfb7a3cade3c8e51bf5f"
+    "2125299467691987445": "ee02a3d72b86ea643bc282984dd2ff94bf7f37e97ccbcfb7a3cade3c8e51bf5f",
+    "2125353693474365742": "20c036a92bb2d8c196d5b2108c4c67876c2772e3c8aec4fd45fd1eb7bbac04f1",
+    "2125387147633189101": "de9373c2dd7f4471df53c328a5b8fffe2b1d9516cfcdde1d87839343b265c457",
+    "2125388306842255694": "e8e2eb41839323ba47679d3f661f6f523f84a05a6fce9f9eed599adb41b5b349"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2125299467691987445",
-    "canonicalId": "2125299467691987445",
-    "text": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
-    "createdAt": "2026-11-24T18:44:13.000Z",
-    "url": "https://x.com/thsottiaux/status/2125299467691987445",
+    "id": "2125388306842255694",
+    "canonicalId": "2125388306842255694",
+    "text": "@TokenGremlin @amorriscode @trq212 Wait, is that true?",
+    "createdAt": "2026-11-25T00:37:14.000Z",
+    "url": "https://x.com/thsottiaux/status/2125388306842255694",
     "media": []
   }
 }

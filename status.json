@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-24T20:22:20.574Z",
+  "updatedAt": "2026-11-25T03:36:24.597Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-24T20:22:20.560Z",
-    "lastSuccessAt": "2026-11-24T20:22:20.560Z",
-    "lastRunStatus": "checked-4-posts"
+    "lastCheckedAt": "2026-11-25T03:36:24.591Z",
+    "lastSuccessAt": "2026-11-25T03:36:24.591Z",
+    "lastRunStatus": "checked-3-posts"
   },
   "latestObservedPost": {
-    "id": "2125299467691987445",
-    "text": "Sign up for ChatGPT Business: https://t.co/2WH7P7Yx7L",
-    "url": "https://x.com/thsottiaux/status/2125299467691987445",
-    "postCreatedAt": "2026-11-24T18:44:13.000Z"
+    "id": "2125388306842255694",
+    "text": "@TokenGremlin @amorriscode @trq212 Wait, is that true?",
+    "url": "https://x.com/thsottiaux/status/2125388306842255694",
+    "postCreatedAt": "2026-11-25T00:37:14.000Z"
   },
   "latest": {
     "reset": {
