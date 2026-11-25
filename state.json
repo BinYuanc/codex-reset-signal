@@ -3,11 +3,11 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2125494608826372329",
-  "lastCheckedAt": "2026-11-25T13:27:48.423Z",
-  "lastSuccessAt": "2026-11-25T13:27:48.423Z",
-  "lastRunStatus": "checked-1-posts",
-  "postsScanned": 744,
+  "sinceId": "2125678401541583217",
+  "lastCheckedAt": "2026-11-25T22:40:11.938Z",
+  "lastSuccessAt": "2026-11-25T22:40:11.938Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 746,
   "matches": [
     {
       "version": "4992692a2d865c3ca16db2c7827b29ea0c482677e1b5ce6993a1628eb339e922",
@@ -1339,15 +1339,17 @@
     "2125353693474365742": "20c036a92bb2d8c196d5b2108c4c67876c2772e3c8aec4fd45fd1eb7bbac04f1",
     "2125387147633189101": "de9373c2dd7f4471df53c328a5b8fffe2b1d9516cfcdde1d87839343b265c457",
     "2125388306842255694": "e8e2eb41839323ba47679d3f661f6f523f84a05a6fce9f9eed599adb41b5b349",
-    "2125494608826372329": "cba235af6a44647eced184fe9f8b11c60a1feae9719051a7902e507621e60bdd"
+    "2125494608826372329": "cba235af6a44647eced184fe9f8b11c60a1feae9719051a7902e507621e60bdd",
+    "2125678021848019454": "241bf0287807ad5cebd0718ce24f7869214d31d0c8d02514dfa2961e41bb6f39",
+    "2125678401541583217": "0829acaa1a3b5193bca7777d0227ced577149ceb5bdd069d265ae4d084b3ca0b"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2125494608826372329",
-    "canonicalId": "2125494608826372329",
-    "text": "@jxnlco very tool of you",
-    "createdAt": "2026-11-25T07:39:39.000Z",
-    "url": "https://x.com/thsottiaux/status/2125494608826372329",
+    "id": "2125678401541583217",
+    "canonicalId": "2125678401541583217",
+    "text": "@charliermarsh This man is unstoppable",
+    "createdAt": "2026-11-25T19:49:58.000Z",
+    "url": "https://x.com/thsottiaux/status/2125678401541583217",
     "media": []
   }
 }
