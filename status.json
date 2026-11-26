@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T04:23:33.871Z",
+  "updatedAt": "2026-11-26T14:06:48.555Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-26T04:23:33.849Z",
-    "lastSuccessAt": "2026-11-26T04:23:33.849Z",
+    "lastCheckedAt": "2026-11-26T14:06:48.547Z",
+    "lastSuccessAt": "2026-11-26T14:06:48.547Z",
     "lastRunStatus": "checked-1-posts"
   },
   "latestObservedPost": {
-    "id": "2125784147889393806",
-    "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
-    "url": "https://x.com/thsottiaux/status/2125784147889393806",
-    "postCreatedAt": "2026-11-26T02:50:10.000Z"
+    "id": "2125853628250599730",
+    "text": "Banked reset is online",
+    "url": "https://x.com/thsottiaux/status/2125853628250599730",
+    "postCreatedAt": "2026-11-26T07:26:16.000Z"
   },
   "latest": {
     "reset": {
