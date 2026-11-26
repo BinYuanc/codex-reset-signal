@@ -4,8 +4,25 @@
     <title>Codex Reset Signal · @thsottiaux</title>
     <link>https://x.com/thsottiaux</link>
     <description>Actionable reset and bank-credit signals detected by codex-reset-signal.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 22:40:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:23:33 GMT</lastBuildDate>
     <generator>codex-reset-signal</generator>
+    <item>
+      <guid isPermaLink="false">2125784147889393806:bank_credit</guid>
+      <title>Bank credit · announced · @thsottiaux</title>
+      <link>https://x.com/thsottiaux/status/2125784147889393806</link>
+      <pubDate>Thu, 26 Nov 2026 02:50:10 GMT</pubDate>
+      <category>bank_credit</category>
+      <description>Bank credit · announced
+Timing: As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business
+Note: 原文没有可确定的时间
+Evidence: As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business
+
+We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. 
+
+We’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.
+
+As a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.</description>
+    </item>
     <item>
       <guid isPermaLink="false">2125299248782778588:bank_credit</guid>
       <title>Bank credit · scheduled · @thsottiaux</title>
